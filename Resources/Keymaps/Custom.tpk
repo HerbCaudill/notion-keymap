@@ -892,55 +892,11 @@
     <property key="kben" name="Keymode entry">True</property>
   </packet>
 
-  <!-- Double-Whole note -->
   <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cnD</property>
-    <property key="kblt" name="Keyboard sequence">W</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
+    <property key="uicm" name="UI command">mren</property>
+    <property key="kbsp" name="Keyboard symbol">spbr</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
     <property key="kbst" name="Keymode step">True</property>
-  </packet>
-
-  <!-- Whole note -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cn1</property>
-    <property key="kblt" name="Keyboard sequence">w</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- Half note -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cn2</property>
-    <property key="kblt" name="Keyboard sequence">h</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- Quarter note -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cn4</property>
-    <property key="kblt" name="Keyboard sequence">q</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- Eighth note -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cn8</property>
-    <property key="kblt" name="Keyboard sequence">e</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
   </packet>
 
   <!-- Ritardando -->
@@ -961,165 +917,6 @@
     <property key="kben" name="Keymode entry">True</property>
   </packet>
 
-  <!-- 16th note -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cn16</property>
-    <property key="kblt" name="Keyboard sequence">s</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- 32nd note -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cn32</property>
-    <property key="kblt" name="Keyboard sequence">t</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- 64th note -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cn64</property>
-    <property key="kblt" name="Keyboard sequence">j</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- 128th note -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cn28</property>
-    <property key="kblt" name="Keyboard sequence">J</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-    <property key="kbst" name="Keymode step">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">mren</property>
-    <property key="kbsp" name="Keyboard symbol">spbr</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbst" name="Keymode step">True</property>
-  </packet>
-
-  <!-- Double-Whole rest -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">crD</property>
-    <property key="kblt" name="Keyboard sequence">WR</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-    <property key="kbst" name="Keymode step">True</property>
-  </packet>
-
-  <!-- Whole rest -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cr1</property>
-    <property key="kblt" name="Keyboard sequence">wr</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- Half rest -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cr2</property>
-    <property key="kblt" name="Keyboard sequence">hr</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- Quarter rest -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cr4</property>
-    <property key="kblt" name="Keyboard sequence">qr</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- Eighth Rest -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cr8</property>
-    <property key="kblt" name="Keyboard sequence">er</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- 16th rest -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cr16</property>
-    <property key="kblt" name="Keyboard sequence">sr</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- 32nd rest -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cr32</property>
-    <property key="kblt" name="Keyboard sequence">tr</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- 64th rest -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cr64</property>
-    <property key="kblt" name="Keyboard sequence">jr</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- 128th rest -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cr28</property>
-    <property key="kblt" name="Keyboard sequence">JR</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-    <property key="kbst" name="Keymode step">True</property>
-  </packet>
-
-  <!-- Augmentation dot -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cdt1</property>
-    <property key="kblt" name="Keyboard sequence">d</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
-
-  <!-- Two augmentation dots -->
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">cdt2</property>
-    <property key="kblt" name="Keyboard sequence">dd</property>
-    <property key="kbsl" name="Keymode arrow">True</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kben" name="Keymode entry">True</property>
-    <property key="kbnt" name="Keymode note entry">True</property>
-  </packet>
 
   <packet type="KBMP" name="Keyboard mapping">
     <property key="uicm" name="UI command">cdt0</property>
@@ -2464,142 +2261,6 @@
     <property key="kbsn" name="Keymode selected">True</property>
   </packet>
 
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">seD</property>
-    <property key="kblt" name="Keyboard sequence">WW</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se1</property>
-    <property key="kblt" name="Keyboard sequence">ww</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se2</property>
-    <property key="kblt" name="Keyboard sequence">hh</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se4</property>
-    <property key="kblt" name="Keyboard sequence">qq</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se8</property>
-    <property key="kblt" name="Keyboard sequence">ee</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se16</property>
-    <property key="kblt" name="Keyboard sequence">ss</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se32</property>
-    <property key="kblt" name="Keyboard sequence">tt</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se64</property>
-    <property key="kblt" name="Keyboard sequence">jj</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se12</property>
-    <property key="kblt" name="Keyboard sequence">JJ</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">seDd</property>
-    <property key="kblt" name="Keyboard sequence">WWD</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se1d</property>
-    <property key="kblt" name="Keyboard sequence">wwd</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se2d</property>
-    <property key="kblt" name="Keyboard sequence">hhd</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se4d</property>
-    <property key="kblt" name="Keyboard sequence">qqd</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se8d</property>
-    <property key="kblt" name="Keyboard sequence">eed</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se6d</property>
-    <property key="kblt" name="Keyboard sequence">ssd</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">se3d</property>
-    <property key="kblt" name="Keyboard sequence">ttd</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">sE64</property>
-    <property key="kblt" name="Keyboard sequence">jjd</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
-
-  <packet type="KBMP" name="Keyboard mapping">
-    <property key="uicm" name="UI command">sE12</property>
-    <property key="kblt" name="Keyboard sequence">JJD</property>
-    <property key="kbdr" name="Keyboard dir">dn</property>
-    <property key="kbsn" name="Keymode selected">True</property>
-    <property key="kkey" name="Keep keys">True</property>
-  </packet>
 
   <packet type="KBMP" name="Keyboard mapping">
     <property key="uicm" name="UI command">rmar</property>
@@ -3066,8 +2727,7 @@
     <property key="kbnt" name="Keymode note entry">False</property>
   </packet>
 
-  <!-- ADDED -->
-
+  <!-- CUSTOMIZED -->
 
   <!-- Make tuplet -->
   <packet type="KBMP" name="Keyboard mapping">
@@ -3085,6 +2745,367 @@
     <property key="kbdr" name="Keyboard dir">dn</property>
     <property key="kbsn" name="Keymode selected">True</property>
     <property key="kben" name="Keymode entry">True</property>
+  </packet>
+
+  <!-- Double-Whole note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cnD</property>
+    <property key="kblt" name="Keyboard sequence">W</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+    <property key="kbst" name="Keymode step">True</property>
+  </packet>
+
+  <!-- Whole note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cn1</property>
+    <property key="kblt" name="Keyboard sequence">w</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- Half note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cn2</property>
+    <property key="kblt" name="Keyboard sequence">h</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- Quarter note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cn4</property>
+    <property key="kblt" name="Keyboard sequence">q</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- Eighth note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cn8</property>
+    <property key="kblt" name="Keyboard sequence">e</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- 16th note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cn16</property>
+    <property key="kblt" name="Keyboard sequence">s</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- 32nd note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cn32</property>
+    <property key="kblt" name="Keyboard sequence">t</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- 64th note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cn64</property>
+    <property key="kblt" name="Keyboard sequence">j</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- 128th note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cn28</property>
+    <property key="kblt" name="Keyboard sequence">J</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+    <property key="kbst" name="Keymode step">True</property>
+  </packet>
+
+
+  <!-- Double-Whole rest -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">crD</property>
+    <property key="kblt" name="Keyboard sequence">WR</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+    <property key="kbst" name="Keymode step">True</property>
+  </packet>
+
+  <!-- Whole rest -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cr1</property>
+    <property key="kblt" name="Keyboard sequence">wr</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- Half rest -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cr2</property>
+    <property key="kblt" name="Keyboard sequence">hr</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- Quarter rest -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cr4</property>
+    <property key="kblt" name="Keyboard sequence">qr</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- Eighth Rest -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cr8</property>
+    <property key="kblt" name="Keyboard sequence">er</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- 16th rest -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cr16</property>
+    <property key="kblt" name="Keyboard sequence">sr</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- 32nd rest -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cr32</property>
+    <property key="kblt" name="Keyboard sequence">tr</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- 64th rest -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cr64</property>
+    <property key="kblt" name="Keyboard sequence">jr</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- 128th rest -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cr28</property>
+    <property key="kblt" name="Keyboard sequence">JR</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+    <property key="kbst" name="Keymode step">True</property>
+  </packet>
+
+  <!-- Augmentation dot -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cdt1</property>
+    <property key="kblt" name="Keyboard sequence">d</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+  <!-- Two augmentation dots -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">cdt2</property>
+    <property key="kblt" name="Keyboard sequence">dd</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+    <property key="kbnt" name="Keymode note entry">True</property>
+  </packet>
+
+
+  <!-- Change to double whole note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">seD</property>
+    <property key="kblt" name="Keyboard sequence">WW</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
+  </packet>
+
+  <!-- Change to whole note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se1</property>
+    <property key="kblt" name="Keyboard sequence">ww</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
+  </packet>
+
+  <!-- Change to half note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se2</property>
+    <property key="kblt" name="Keyboard sequence">hh</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
+  </packet>
+
+  <!-- Change to quarter note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se4</property>
+    <property key="kblt" name="Keyboard sequence">qq</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
+  </packet>
+
+  <!-- Change to eighth note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se8</property>
+    <property key="kblt" name="Keyboard sequence">ee</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
+  </packet>
+
+  <!-- Change to sixteenth note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se16</property>
+    <property key="kblt" name="Keyboard sequence">ss</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
+  </packet>
+
+  <!-- Change to thirty-second note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se32</property>
+    <property key="kblt" name="Keyboard sequence">tt</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
+  </packet>
+
+  <!-- Change to sixty-fourth note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se64</property>
+    <property key="kblt" name="Keyboard sequence">jj</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
+  </packet>
+
+  <!-- Change to 128th note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se12</property>
+    <property key="kblt" name="Keyboard sequence">JJ</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
+  </packet>
+
+  <!-- Change to dotted double whole note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">seDd</property>
+    <property key="kblt" name="Keyboard sequence">WWD</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+  </packet>
+
+  <!-- Change to dotted whole note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se1d</property>
+    <property key="kblt" name="Keyboard sequence">wwd</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+  </packet>
+
+  <!-- Change to dotted half note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se2d</property>
+    <property key="kblt" name="Keyboard sequence">hhd</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+  </packet>
+
+  <!-- Change to dotted quarter note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se4d</property>
+    <property key="kblt" name="Keyboard sequence">qqd</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+  </packet>
+
+  <!-- Change to dotted eighth note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se8d</property>
+    <property key="kblt" name="Keyboard sequence">eed</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+  </packet>
+
+  <!-- Change to dotted 16th note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se6d</property>
+    <property key="kblt" name="Keyboard sequence">ssd</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+  </packet>
+
+  <!-- Change to dotted 32nd note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">se3d</property>
+    <property key="kblt" name="Keyboard sequence">ttd</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+  </packet>
+
+  <!-- Change to dotted 64th note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">sE64</property>
+    <property key="kblt" name="Keyboard sequence">jjd</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
+  </packet>
+
+  <!-- Change to dotted 128th note -->
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">sE12</property>
+    <property key="kblt" name="Keyboard sequence">JJD</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kkey" name="Keep keys">True</property>
   </packet>
 
 
