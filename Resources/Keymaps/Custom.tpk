@@ -2747,7 +2747,7 @@
     <property key="kben" name="Keymode entry">True</property>
   </packet>
 
-  <!-- Double-Whole note -->
+  <!-- Double-whole note -->
   <packet type="KBMP" name="Keyboard mapping">
     <property key="uicm" name="UI command">cnD</property>
     <property key="kblt" name="Keyboard sequence">W</property>
@@ -3110,54 +3110,3 @@
 
 
 </packets>
-
-
-<!-- 
-c15b: 2 Octaves below
-cafp: Forte-piano
-cafz: Forzando
-casf: Sforzando forte
-cdt1: Augmentation dot
-cdt2: Two augmentation dots
-cffp: Fortissimo-piano
-cffz: Fortissimo forzando
-cflt: Flat
-cfta: Treble 8va clef
-cftm: Treble 15ma clef
-cg16: Grace 16th note
-cg32: Grace 32nd note
-cg4: Grace quarter note
-cg8: Grace eight note
-cght: Ghost note
-chbr: Chord library
-chre: Recent chords
-cnat: Natural
-csff: Sforzando fortissimo
-csfp: Sforzando-piano
-csFp: Sforzando-forte-piano
-csfz: Sforzato forte
-csFz: Sforzato fortissimo
-cshp: Sharp
-cshp: Sharp
-ct32: Make Tuplet
-ctad: Slow tempo
-ctal: Moderate fast tempo
-ctan: Medium slow tempo
-ctao: Fast tempo
-ctle: Very slow tempo
-ctmo: Moderate tempo
-ctmp: Metronome Mark
-ctpr: Very fast tempo
-ctvi: Fast tempo
-opss: Score Setup
-redo: Redo
-stop: Stop
-ummd: Melody Mode
-upas: Audition the current chord on the piano
-upca: Select Items
-usv1: Enter in voice 1
-usv2: Enter in voice 2
-usv3: Enter in voice 3
-usv4: Enter in voice 4
-uv12: Enter in both 1 and 2 voices
- -->
