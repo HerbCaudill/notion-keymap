@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<controller-actions>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">jmbk</property>
+    <property key="ctnt" name="Controller note">48</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">jmnx</property>
+    <property key="ctnt" name="Controller note">50</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">jtbk</property>
+    <property key="ctnt" name="Controller note">49</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">jtnx</property>
+    <property key="ctnt" name="Controller note">51</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">jrbk</property>
+    <property key="ctnt" name="Controller note">54</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">jrnx</property>
+    <property key="ctnt" name="Controller note">56</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trs4</property>
+    <property key="ctnt" name="Controller note">52</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trs3</property>
+    <property key="ctnt" name="Controller note">53</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trs2</property>
+    <property key="ctnt" name="Controller note">55</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trs1</property>
+    <property key="ctnt" name="Controller note">57</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">plrt</property>
+    <property key="ctnt" name="Controller note">58</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trjm</property>
+    <property key="ctnt" name="Controller note">59</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trnx</property>
+    <property key="ctnt" name="Controller note">60</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trnx</property>
+    <property key="ctnt" name="Controller note">62</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trnx</property>
+    <property key="ctnt" name="Controller note">64</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trnx</property>
+    <property key="ctnt" name="Controller note">65</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trnx</property>
+    <property key="ctnt" name="Controller note">67</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">plvm</property>
+    <property key="ctnt" name="Controller note">61</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">plvm</property>
+    <property key="ctnt" name="Controller note">63</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trcr</property>
+    <property key="ctnt" name="Controller note">66</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">trrs</property>
+    <property key="ctnt" name="Controller note">68</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">tnxp</property>
+    <property key="ctnt" name="Controller note">70</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">fdin</property>
+    <property key="ctnt" name="Controller note">69</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">fdsl</property>
+    <property key="ctnt" name="Controller note">71</property>
+  </packet>
+  <packet type="CTRL" name="Controller action">
+    <property key="uicm" name="UI command">stop</property>
+    <property key="ctnt" name="Controller note">72</property>
+  </packet>
+</controller-actions>

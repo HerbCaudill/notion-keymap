@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tooltips>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">undo</property>
+    <property key="ttst" name="Tooltip text">Undo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">redo</property>
+    <property key="ttst" name="Tooltip text">Redo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">tgpf</property>
+    <property key="ttst" name="Tooltip text">Toggle Performance Mode On/Off</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">expf</property>
+    <property key="ttst" name="Tooltip text">Enter Edit Mode</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">stop</property>
+    <property key="ttst" name="Tooltip text">Stop</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">strt</property>
+    <property key="ttst" name="Tooltip text">Play</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">entd</property>
+    <property key="ttst" name="Tooltip text">Record Performance on NTempo staff</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">tren</property>
+    <property key="ttst" name="Tooltip text">Start NTempo Performance</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">opmm</property>
+    <property key="ttst" name="Tooltip text">Toggle metronome in playback or record</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">plrt</property>
+    <property key="ttst" name="Tooltip text">Rewind</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">escp</property>
+    <property key="ttst" name="Tooltip text">Select tool</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctbx</property>
+    <property key="ttst" name="Tooltip text">Text Box</property>
+    <property key="ttd1" name="Tooltip details 1">Add custom text in the score</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">creh</property>
+    <property key="ttst" name="Tooltip text">Rehearsal Mark</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctmp</property>
+    <property key="ttst" name="Tooltip text">Metronome Mark</property>
+    <property key="ttd1" name="Tooltip details 1">Beat defaults to quarter note</property>
+    <property key="ttd2" name="Tooltip details 2">For eighth note beats use &apos;e=&apos;</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctcr</property>
+    <property key="ttst" name="Tooltip text">Ritardando</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctca</property>
+    <property key="ttst" name="Tooltip text">Accelerando</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctle</property>
+    <property key="ttst" name="Tooltip text">Very slow tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Quarter note = 48</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctad</property>
+    <property key="ttst" name="Tooltip text">Slow tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Quarter note = 56</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctan</property>
+    <property key="ttst" name="Tooltip text">Medium slow tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Quarter note = 66</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctmo</property>
+    <property key="ttst" name="Tooltip text">Moderate tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Quarter note = 100</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctal</property>
+    <property key="ttst" name="Tooltip text">Moderate fast tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Quarter note = 120</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctao</property>
+    <property key="ttst" name="Tooltip text">Fast tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Quarter note = 144</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctvi</property>
+    <property key="ttst" name="Tooltip text">Fast tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Quarter note = 160</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctpr</property>
+    <property key="ttst" name="Tooltip text">Very fast tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Quarter note = 184</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cenh</property>
+    <property key="ttst" name="Tooltip text">Enharmonic spelling</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cflt</property>
+    <property key="ttst" name="Tooltip text">Flat</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cshp</property>
+    <property key="ttst" name="Tooltip text">Sharp</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cnat</property>
+    <property key="ttst" name="Tooltip text">Natural</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">crps</property>
+    <property key="ttst" name="Tooltip text">Begin Repeat</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">crpe</property>
+    <property key="ttst" name="Tooltip text">End Repeat</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cafp</property>
+    <property key="ttst" name="Tooltip text">Forte-piano</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cffp</property>
+    <property key="ttst" name="Tooltip text">Fortissimo-piano</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cffz</property>
+    <property key="ttst" name="Tooltip text">Fortissimo forzando</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cafz</property>
+    <property key="ttst" name="Tooltip text">Forzando</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">casf</property>
+    <property key="ttst" name="Tooltip text">Sforzando forte</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">csff</property>
+    <property key="ttst" name="Tooltip text">Sforzando fortissimo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">csfz</property>
+    <property key="ttst" name="Tooltip text">Sforzato forte</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">csFz</property>
+    <property key="ttst" name="Tooltip text">Sforzato fortissimo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">csfp</property>
+    <property key="ttst" name="Tooltip text">Sforzando-piano</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">csFp</property>
+    <property key="ttst" name="Tooltip text">Sforzando-forte-piano</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cslu</property>
+    <property key="ttst" name="Tooltip text">Slur</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">adsh</property>
+    <property key="ttst" name="Tooltip text">Tenuto</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">astc</property>
+    <property key="ttst" name="Tooltip text">Staccato</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">aacc</property>
+    <property key="ttst" name="Tooltip text">Accent</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">alga</property>
+    <property key="ttst" name="Tooltip text">Accent</property>
+    <property key="ttd1" name="Tooltip details 1">with tenuto</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">asta</property>
+    <property key="ttst" name="Tooltip text">Accent </property>
+    <property key="ttd1" name="Tooltip details 1">with staccato</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">assa</property>
+    <property key="ttst" name="Tooltip text">Accent </property>
+    <property key="ttd1" name="Tooltip details 1">with staccatissimo </property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">asst</property>
+    <property key="ttst" name="Tooltip text">Staccatissimo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">amzs</property>
+    <property key="ttst" name="Tooltip text">Mezzo-staccato</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">aAcc</property>
+    <property key="ttst" name="Tooltip text">Strong Accent</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">algA</property>
+    <property key="ttst" name="Tooltip text">Strong Accent</property>
+    <property key="ttd1" name="Tooltip details 1">with Tenuto </property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">astA</property>
+    <property key="ttst" name="Tooltip text">Strong Accent </property>
+    <property key="ttd1" name="Tooltip details 1">with Staccato </property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">assA</property>
+    <property key="ttst" name="Tooltip text">Strong Accent </property>
+    <property key="ttd1" name="Tooltip details 1">with Staccatissimo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">chcr</property>
+    <property key="ttst" name="Tooltip text">Crescendo hairpin</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cymf</property>
+    <property key="ttst" name="Tooltip text">Mezzo-forte</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cy1f</property>
+    <property key="ttst" name="Tooltip text">Forte</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cy2f</property>
+    <property key="ttst" name="Tooltip text">Fortissimo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cy3f</property>
+    <property key="ttst" name="Tooltip text">Forte-fortissimo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">chdm</property>
+    <property key="ttst" name="Tooltip text">Diminuendo hairpin</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cymp</property>
+    <property key="ttst" name="Tooltip text">Mezzo-piano</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cy1p</property>
+    <property key="ttst" name="Tooltip text">Piano</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cy2p</property>
+    <property key="ttst" name="Tooltip text">Pianissimo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cy3p</property>
+    <property key="ttst" name="Tooltip text">Piano-pianissimo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ccrt</property>
+    <property key="ttst" name="Tooltip text">Crescendo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cdmt</property>
+    <property key="ttst" name="Tooltip text">Diminuendo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cn1</property>
+    <property key="ttst" name="Tooltip text">Whole note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cn2</property>
+    <property key="ttst" name="Tooltip text">Half note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cn4</property>
+    <property key="ttst" name="Tooltip text">Quarter note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cn8</property>
+    <property key="ttst" name="Tooltip text">Eighth note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cn16</property>
+    <property key="ttst" name="Tooltip text">16th note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cn32</property>
+    <property key="ttst" name="Tooltip text">32nd note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cr1</property>
+    <property key="ttst" name="Tooltip text">Whole rest</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cr2</property>
+    <property key="ttst" name="Tooltip text">Half rest</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cr4</property>
+    <property key="ttst" name="Tooltip text">Quarter rest</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cr8</property>
+    <property key="ttst" name="Tooltip text">Eighth Rest</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cr16</property>
+    <property key="ttst" name="Tooltip text">16th rest</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cr32</property>
+    <property key="ttst" name="Tooltip text">32nd rest</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cdt1</property>
+    <property key="ttst" name="Tooltip text">Augmentation dot</property>
+    <property key="ttd1" name="Tooltip details 1">Adds an augmentation dot</property>
+    <property key="ttd2" name="Tooltip details 2">to a note in the cursor</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cdt2</property>
+    <property key="ttst" name="Tooltip text">Two augmentation dots</property>
+    <property key="ttd1" name="Tooltip details 1">Adds two augmentation dots</property>
+    <property key="ttd2" name="Tooltip details 2">to a note in the cursor</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">autu</property>
+    <property key="ttst" name="Tooltip text">Make tuplet</property>
+    <property key="ttd1" name="Tooltip details 1">Converts a selection into a tuplet</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cnrn</property>
+    <property key="ttst" name="Tooltip text">Return to Notated Tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Playback returns to </property>
+    <property key="ttd2" name="Tooltip details 2">notated tempo </property>
+    <property key="ttd3" name="Tooltip details 3">at the NTempo note </property>
+    <property key="ttd4" name="Tooltip details 4">that has the RN.</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cncp</property>
+    <property key="ttst" name="Tooltip text">Capture Tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Captures the tempo</property>
+    <property key="ttd2" name="Tooltip details 2">at the symbol</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cnrc</property>
+    <property key="ttst" name="Tooltip text">Return to Captured Tempo</property>
+    <property key="ttd1" name="Tooltip details 1">Playback returns to</property>
+    <property key="ttd2" name="Tooltip details 2">captured tempo</property>
+    <property key="ttd3" name="Tooltip details 3">at the NTempo note </property>
+    <property key="ttd4" name="Tooltip details 4">that has the RC.</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">umvc</property>
+    <property key="ttst" name="Tooltip text">Master Volume</property>
+    <property key="ttd1" name="Tooltip details 1">Allows adjusting the global volume</property>
+    <property key="ttd2" name="Tooltip details 2">Range is -60 to +6 decibels</property>
+    <property key="ttd3" name="Tooltip details 3">Double click for precise values</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">umtv</property>
+    <property key="ttst" name="Tooltip text">Track Volume</property>
+    <property key="ttd1" name="Tooltip details 1">Range is -60 to +12 decibels</property>
+    <property key="ttd2" name="Tooltip details 2">Double click for precise values</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">umtp</property>
+    <property key="ttst" name="Tooltip text">Track Panning</property>
+    <property key="ttd1" name="Tooltip details 1">-1.0 = 100% Left</property>
+    <property key="ttd2" name="Tooltip details 2">1.0 = 100% Right </property>
+    <property key="ttd3" name="Tooltip details 3">Double click for precise values</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">umts</property>
+    <property key="ttst" name="Tooltip text">Solo</property>
+    <property key="ttd1" name="Tooltip details 1">Toggles track solo on/off</property>
+    <property key="ttd2" name="Tooltip details 2">Shift-click to solo only this track</property>
+    <property key="ttd3" name="Tooltip details 3">and reset the rest of the mixer</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">umtm</property>
+    <property key="ttst" name="Tooltip text">Mute</property>
+    <property key="ttd1" name="Tooltip details 1">Toggles mute on/off.</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">engc</property>
+    <property key="ttst" name="Tooltip text">Real Time MIDI Record</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">enge</property>
+    <property key="ttst" name="Tooltip text">Step Time MIDI Record</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">envd</property>
+    <property key="ttst" name="Tooltip text">Velocity Overdub</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">opss</property>
+    <property key="ttst" name="Tooltip text">Score Setup</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">oprh</property>
+    <property key="ttst" name="Tooltip text">Navigate through rehearsal marks</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">uitc</property>
+    <property key="ttst" name="Tooltip text">Timeline</property>
+    <property key="ttd1" name="Tooltip details 1">Click to jump to a location</property>
+    <property key="ttd2" name="Tooltip details 2">Right-Click to bring up the GoTo dialog</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">clr1</property>
+    <property key="ttst" name="Tooltip text">Lyrics Tool </property>
+    <property key="ttd1" name="Tooltip details 1">Click to enter lyrics</property>
+    <property key="ttd2" name="Tooltip details 2">Use [L] + &apos;x&apos; number to enter x verse</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ccho</property>
+    <property key="ttst" name="Tooltip text">Chord Symbol</property>
+    <property key="ttd1" name="Tooltip details 1">Allows you to enter a chord symbol</property>
+    <property key="ttd2" name="Tooltip details 2">Simply click and type in the chord </property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cdsh</property>
+    <property key="ttst" name="Tooltip text">Double sharp</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cdfl</property>
+    <property key="ttst" name="Tooltip text">Double flat</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cshp</property>
+    <property key="ttst" name="Tooltip text">Sharp</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cflt</property>
+    <property key="ttst" name="Tooltip text">Flat</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cnat</property>
+    <property key="ttst" name="Tooltip text">Natural</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cqun</property>
+    <property key="ttst" name="Tooltip text">Raised natural</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cqdn</property>
+    <property key="ttst" name="Tooltip text">Lowered natural</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cqus</property>
+    <property key="ttst" name="Tooltip text">Raised sharp</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cqds</property>
+    <property key="ttst" name="Tooltip text">Lowered sharp</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cquf</property>
+    <property key="ttst" name="Tooltip text">Raised flat</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cqdf</property>
+    <property key="ttst" name="Tooltip text">Lowered flat</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">crD</property>
+    <property key="ttst" name="Tooltip text">Double-Whole rest</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cr64</property>
+    <property key="ttst" name="Tooltip text">64th rest</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cr28</property>
+    <property key="ttst" name="Tooltip text">128th rest</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ct32</property>
+    <property key="ttst" name="Tooltip text">Make Tuplet</property>
+    <property key="ttd1" name="Tooltip details 1">Click to turn a selection</property>
+    <property key="ttd2" name="Tooltip details 2">of notes into a tuplet</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">otpd</property>
+    <property key="ttst" name="Tooltip text">Custom Tuplet</property>
+    <property key="ttd1" name="Tooltip details 1">Load a custom tuplet</property>
+    <property key="ttd2" name="Tooltip details 2">into the cursor</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cnD</property>
+    <property key="ttst" name="Tooltip text">Double-Whole note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cn64</property>
+    <property key="ttst" name="Tooltip text">64th note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cn28</property>
+    <property key="ttst" name="Tooltip text">128th note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cdt1</property>
+    <property key="ttst" name="Tooltip text">Augmentation dot</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cdt2</property>
+    <property key="ttst" name="Tooltip text">Two augmentation dots</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">usv1</property>
+    <property key="ttst" name="Tooltip text">Enter in voice 1</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">usv2</property>
+    <property key="ttst" name="Tooltip text">Enter in voice 2</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">usv3</property>
+    <property key="ttst" name="Tooltip text">Enter in voice 3</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">usv4</property>
+    <property key="ttst" name="Tooltip text">Enter in voice 4</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">uv12</property>
+    <property key="ttst" name="Tooltip text">Enter in both 1 and 2 voices</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cg4</property>
+    <property key="ttst" name="Tooltip text">Grace quarter note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cg8</property>
+    <property key="ttst" name="Tooltip text">Grace eight note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cg16</property>
+    <property key="ttst" name="Tooltip text">Grace 16th note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cg32</property>
+    <property key="ttst" name="Tooltip text">Grace 32nd note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cstd</property>
+    <property key="ttst" name="Tooltip text">Standard notehead</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ceks</property>
+    <property key="ttst" name="Tooltip text">X notehead</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctri</property>
+    <property key="ttst" name="Tooltip text">Triangle notehead</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cdmf</property>
+    <property key="ttst" name="Tooltip text">Diamond notehead</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cslh</property>
+    <property key="ttst" name="Tooltip text">Slashed notehead</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ccix</property>
+    <property key="ttst" name="Tooltip text">Circle X notehead</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">crsn</property>
+    <property key="ttst" name="Tooltip text">Rhythm slash without stem</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">crss</property>
+    <property key="ttst" name="Tooltip text">Rhythm slash with stem</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cght</property>
+    <property key="ttst" name="Tooltip text">Ghost note</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctit</property>
+    <property key="ttst" name="Tooltip text">Tie tool</property>
+    <property key="ttd1" name="Tooltip details 1">Click between notes to add a tie</property>
+    <property key="ttd2" name="Tooltip details 2">Click between tied notes to remove a tie</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">tscs</property>
+    <property key="ttst" name="Tooltip text">Cross-staff beaming</property>
+    <property key="ttd1" name="Tooltip details 1">Select note(s) and click to switch staves.</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cbtl</property>
+    <property key="ttst" name="Tooltip text">Beaming tool</property>
+    <property key="ttd1" name="Tooltip details 1">Click between notes to add/remove beams</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cy4p</property>
+    <property key="ttst" name="Tooltip text">Piano-piano-pianissimo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cy4f</property>
+    <property key="ttst" name="Tooltip text">Forte-forte-fortissimo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cpgo</property>
+    <property key="ttst" name="Tooltip text">Arpeggio</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cpgu</property>
+    <property key="ttst" name="Tooltip text">Arpeggio up</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cpgn</property>
+    <property key="ttst" name="Tooltip text">Arpeggio down</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cgls</property>
+    <property key="ttst" name="Tooltip text">Glissando</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cpot</property>
+    <property key="ttst" name="Tooltip text">Portamento</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cts1</property>
+    <property key="ttst" name="Tooltip text">Measured tremolo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cts2</property>
+    <property key="ttst" name="Tooltip text">Measured tremolo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cts3</property>
+    <property key="ttst" name="Tooltip text">Unmeasured tremolo</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctb1</property>
+    <property key="ttst" name="Tooltip text">Fingered tremolo </property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctb2</property>
+    <property key="ttst" name="Tooltip text">Fingered tremolo </property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctb3</property>
+    <property key="ttst" name="Tooltip text">Fingered tremolo </property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xubw</property>
+    <property key="ttst" name="Tooltip text">Up-bow</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xdbw</property>
+    <property key="ttst" name="Tooltip text">Down-bow</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xcir</property>
+    <property key="ttst" name="Tooltip text">Open (Harmonic)</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xpls</property>
+    <property key="ttst" name="Tooltip text">Closed</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctrn</property>
+    <property key="ttst" name="Tooltip text">Trill</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctrs</property>
+    <property key="ttst" name="Tooltip text">Trill sharp</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctrf</property>
+    <property key="ttst" name="Tooltip text">Trill flat</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctra</property>
+    <property key="ttst" name="Tooltip text">Trill natural</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">pddn</property>
+    <property key="ttst" name="Tooltip text">Pedal down</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">pdup</property>
+    <property key="ttst" name="Tooltip text">Pedal up</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">csup</property>
+    <property key="ttst" name="Tooltip text">Slide up</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">csdn</property>
+    <property key="ttst" name="Tooltip text">Slide down</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xham</property>
+    <property key="ttst" name="Tooltip text">Hammer on</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xpul</property>
+    <property key="ttst" name="Tooltip text">Pull off</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xtap</property>
+    <property key="ttst" name="Tooltip text">Fretboard Tap</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cplm</property>
+    <property key="ttst" name="Tooltip text">Palm mute</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">clrn</property>
+    <property key="ttst" name="Tooltip text">Let ring</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cslp</property>
+    <property key="ttst" name="Tooltip text">Slap</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cchd</property>
+    <property key="ttst" name="Tooltip text">Chord diagram</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">usbd</property>
+    <property key="ttst" name="Tooltip text">Bend string</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">uspb</property>
+    <property key="ttst" name="Tooltip text">Pre-bend string</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">usrl</property>
+    <property key="ttst" name="Tooltip text">Release string</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">usbh</property>
+    <property key="ttst" name="Tooltip text">Bend and hold string</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">usbr</property>
+    <property key="ttst" name="Tooltip text">Bend and release string</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">uspr</property>
+    <property key="ttst" name="Tooltip text">Pre-bend and release string</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">usvb</property>
+    <property key="ttst" name="Tooltip text">Vibrato</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">uswv</property>
+    <property key="ttst" name="Tooltip text">Wide vibrato</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">uwbv</property>
+    <property key="ttst" name="Tooltip text">Whammy bar vibrato</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">uwdu</property>
+    <property key="ttst" name="Tooltip text">Whammy bar - down and up</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">uwud</property>
+    <property key="ttst" name="Tooltip text">Whammy bar - up and down</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">uwbu</property>
+    <property key="ttst" name="Tooltip text">Whammy bar - up</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">uwbd</property>
+    <property key="ttst" name="Tooltip text">Whammy bar - down</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">oksg</property>
+    <property key="ttst" name="Tooltip text">Add key signature</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">otsg</property>
+    <property key="ttst" name="Tooltip text">Add time signature</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ctmp</property>
+    <property key="ttst" name="Tooltip text">Add tempo / metronome mark</property>
+    <property key="ttd1" name="Tooltip details 1">You can customize your tempo mark</property>
+    <property key="ttd2" name="Tooltip details 2">by using q/e/h = X where q is quarter or eight or half etc.</property>
+    <property key="ttd3" name="Tooltip details 3">Type the name of your tempo before the metronome mark</property>
+    <property key="ttd4" name="Tooltip details 4">To hide the metronome mark use [ and ] around the q=x part.</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ferm</property>
+    <property key="ttst" name="Tooltip text">Add fermata</property>
+    <property key="ttd1" name="Tooltip details 1">Double click the fermata to edit its duration</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">caes</property>
+    <property key="ttst" name="Tooltip text">Add Caesura</property>
+    <property key="ttd1" name="Tooltip details 1">Double click the caesura to edit its duration</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">tenu</property>
+    <property key="ttst" name="Tooltip text">Add tenuto</property>
+    <property key="ttd1" name="Tooltip details 1">Double click the tenuto to edit its duration</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">brth</property>
+    <property key="ttst" name="Tooltip text">Add breath mark</property>
+    <property key="ttd1" name="Tooltip details 1">Double click the breath mark to edit its duration</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cnrn</property>
+    <property key="ttst" name="Tooltip text">RN instruction (Return to notated)</property>
+    <property key="ttd1" name="Tooltip details 1">When placed in the score, this will</property>
+    <property key="ttd2" name="Tooltip details 2">force playback to return to notated tempo </property>
+    <property key="ttd3" name="Tooltip details 3">in a performance session. Any following </property>
+    <property key="ttd4" name="Tooltip details 4">NTempo taps overrides this instruction</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cnrc</property>
+    <property key="ttst" name="Tooltip text">RC instruction (Return to captured)</property>
+    <property key="ttd1" name="Tooltip details 1">When placed in the score, this will</property>
+    <property key="ttd2" name="Tooltip details 2">force playback to return to a captured tempo </property>
+    <property key="ttd3" name="Tooltip details 3">in a performance session. Any following </property>
+    <property key="ttd4" name="Tooltip details 4">NTempo taps overrides this instruction.</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cncp</property>
+    <property key="ttst" name="Tooltip text">CAP instruction (Capture tempo)</property>
+    <property key="ttd1" name="Tooltip details 1">When placed in the score, this will</property>
+    <property key="ttd2" name="Tooltip details 2">capture the tempo at the location </property>
+    <property key="ttd3" name="Tooltip details 3">of this instruction, which can then be used</property>
+    <property key="ttd4" name="Tooltip details 4">with an RC instruction.</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">c8va</property>
+    <property key="ttst" name="Tooltip text">Octave up</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">c8vb</property>
+    <property key="ttst" name="Tooltip text">Octave below</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">c15a</property>
+    <property key="ttst" name="Tooltip text">2 Octaves above</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">c15b</property>
+    <property key="ttst" name="Tooltip text">2 Octaves below</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cftr</property>
+    <property key="ttst" name="Tooltip text">Treble clef</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cfbs</property>
+    <property key="ttst" name="Tooltip text">Bass clef</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cfal</property>
+    <property key="ttst" name="Tooltip text">Alto clef</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cftn</property>
+    <property key="ttst" name="Tooltip text">Tenor clef</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cfta</property>
+    <property key="ttst" name="Tooltip text">Treble 8va clef</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cftb</property>
+    <property key="ttst" name="Tooltip text">Treble 8vb clef</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cftm</property>
+    <property key="ttst" name="Tooltip text">Treble 15ma clef</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cfbb</property>
+    <property key="ttst" name="Tooltip text">Bass 8vb clef</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cfpc</property>
+    <property key="ttst" name="Tooltip text">Percussion clef</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cfbk</property>
+    <property key="ttst" name="Tooltip text">Block clef</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cbar</property>
+    <property key="ttst" name="Tooltip text">Barline</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cdbr</property>
+    <property key="ttst" name="Tooltip text">Double barline</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cfbr</property>
+    <property key="ttst" name="Tooltip text">Final barline</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">crpg</property>
+    <property key="ttst" name="Tooltip text">Repeat ending</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cms1</property>
+    <property key="ttst" name="Tooltip text">One measure repeat</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cms2</property>
+    <property key="ttst" name="Tooltip text">Two measures repeat</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">cseg</property>
+    <property key="ttst" name="Tooltip text">Segno</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ccod</property>
+    <property key="ttst" name="Tooltip text">Coda</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xsnp</property>
+    <property key="ttst" name="Tooltip text">Bartok pizz</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xfll</property>
+    <property key="ttst" name="Tooltip text">Short Fall</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xsfl</property>
+    <property key="ttst" name="Tooltip text">Long Fall</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xdit</property>
+    <property key="ttst" name="Tooltip text">Doit</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xscp</property>
+    <property key="ttst" name="Tooltip text">Scoop</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xshk</property>
+    <property key="ttst" name="Tooltip text">Shake</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">xrip</property>
+    <property key="ttst" name="Tooltip text">Rip</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">crke</property>
+    <property key="ttst" name="Tooltip text">Rake</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">jrbk</property>
+    <property key="ttst" name="Tooltip text">Previous Rehearsal</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">jmbk</property>
+    <property key="ttst" name="Tooltip text">Previous Measure</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">plsp</property>
+    <property key="ttst" name="Tooltip text">Play / Stop</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">jmnx</property>
+    <property key="ttst" name="Tooltip text">Next Measure</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">jrnx</property>
+    <property key="ttst" name="Tooltip text">Next Rehearsal</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">upca</property>
+    <property key="ttst" name="Tooltip text">Select Items</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ccut</property>
+    <property key="ttst" name="Tooltip text">Manual Cut Start</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ccnd</property>
+    <property key="ttst" name="Tooltip text">Manual Cut End</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ccnd</property>
+    <property key="ttst" name="Tooltip text">Show/Hide the Fretboard</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">thnv</property>
+    <property key="ttst" name="Tooltip text">Toggle Handwriting View On/Off</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">thnd</property>
+    <property key="ttst" name="Tooltip text">Toggle Handwriting Mode On/Off</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">tgfb</property>
+    <property key="ttst" name="Tooltip text">Show/Hide the Fretboard</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">tdcl</property>
+    <property key="ttst" name="Tooltip text">Show/Hide the Chord Library</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">tgpn</property>
+    <property key="ttst" name="Tooltip text">Show/Hide the Piano</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">tgdp</property>
+    <property key="ttst" name="Tooltip text">Show/Hide the Drum Library</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">opmc</property>
+    <property key="ttst" name="Tooltip text">Show the Mixer</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">upou</property>
+    <property key="ttst" name="Tooltip text">Shift keyboard one octave higher</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">upod</property>
+    <property key="ttst" name="Tooltip text">Shift keyboard one octave lower</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">upem</property>
+    <property key="ttst" name="Tooltip text">Edit Mode</property>
+    <property key="ttd1" name="Tooltip details 1">Notes on the piano will be entered into the score</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">upas</property>
+    <property key="ttst" name="Tooltip text">Audition the current chord on the piano</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ufas</property>
+    <property key="ttst" name="Tooltip text">Audition the current chord on the fretboard</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">drem</property>
+    <property key="ttst" name="Tooltip text">Edit Mode</property>
+    <property key="ttd1" name="Tooltip details 1">Notes on the drumpad will be entered into the score</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ufem</property>
+    <property key="ttst" name="Tooltip text">Edit Mode</property>
+    <property key="ttd1" name="Tooltip details 1">Notes on the fretboard will be entered into the score</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ummd</property>
+    <property key="ttst" name="Tooltip text">Melody Mode</property>
+    <property key="ttd1" name="Tooltip details 1">Enter one note at a time</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">ucmd</property>
+    <property key="ttst" name="Tooltip text">Chord Mode</property>
+    <property key="ttd1" name="Tooltip details 1">Enter multiple notes at a time</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">asm1</property>
+    <property key="ttst" name="Tooltip text">Modern at 1 inch</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">asm8</property>
+    <property key="ttst" name="Tooltip text">Modern at 8 inches</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">asbr</property>
+    <property key="ttst" name="Tooltip text">British</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">aslm</property>
+    <property key="ttst" name="Tooltip text">Metal</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">chbr</property>
+    <property key="ttst" name="Tooltip text">Chord library</property>
+  </packet>
+  <packet type="TTIP" name="Tooltip entry">
+    <property key="uicm" name="UI command">chre</property>
+    <property key="ttst" name="Tooltip text">Recent chords</property>
+  </packet>
+</tooltips>

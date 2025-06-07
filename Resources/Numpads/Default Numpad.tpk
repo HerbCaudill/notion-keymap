@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packets list="keymap">
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adus</property>
+    <property key="kbsp" name="Keyboard symbol">np1</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adus</property>
+    <property key="kbsp" name="Keyboard symbol">np1</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbcc" name="Keyboard cmd ctl">True</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adse</property>
+    <property key="kbsp" name="Keyboard symbol">np2</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adse</property>
+    <property key="kbsp" name="Keyboard symbol">np2</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbcc" name="Keyboard cmd ctl">True</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adth</property>
+    <property key="kbsp" name="Keyboard symbol">np3</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adth</property>
+    <property key="kbsp" name="Keyboard symbol">np3</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbcc" name="Keyboard cmd ctl">True</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adfr</property>
+    <property key="kbsp" name="Keyboard symbol">np4</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adfr</property>
+    <property key="kbsp" name="Keyboard symbol">np4</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbcc" name="Keyboard cmd ctl">True</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adft</property>
+    <property key="kbsp" name="Keyboard symbol">np5</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adft</property>
+    <property key="kbsp" name="Keyboard symbol">np5</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbcc" name="Keyboard cmd ctl">True</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adsx</property>
+    <property key="kbsp" name="Keyboard symbol">np6</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adsx</property>
+    <property key="kbsp" name="Keyboard symbol">np6</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbcc" name="Keyboard cmd ctl">True</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adsv</property>
+    <property key="kbsp" name="Keyboard symbol">np7</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adsv</property>
+    <property key="kbsp" name="Keyboard symbol">np7</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbcc" name="Keyboard cmd ctl">True</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adoc</property>
+    <property key="kbsp" name="Keyboard symbol">np8</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">adoc</property>
+    <property key="kbsp" name="Keyboard symbol">np8</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbcc" name="Keyboard cmd ctl">True</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">inst</property>
+    <property key="kbsp" name="Keyboard symbol">npen</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">insd</property>
+    <property key="kbsp" name="Keyboard symbol">npen</property>
+    <property key="kbdr" name="Keyboard dir">up</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">inst</property>
+    <property key="kbsp" name="Keyboard symbol">npen</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsh" name="Keyboard shift">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">insd</property>
+    <property key="kbsp" name="Keyboard symbol">npen</property>
+    <property key="kbdr" name="Keyboard dir">up</property>
+    <property key="kbsh" name="Keyboard shift">True</property>
+    <property key="kben" name="Keymode entry">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">uifi</property>
+    <property key="kbsp" name="Keyboard symbol">npen</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbst" name="Keymode step">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">plvm</property>
+    <property key="kbsp" name="Keyboard symbol">npen</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbpl" name="Keymode playing">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">secp</property>
+    <property key="kbsp" name="Keyboard symbol">npen</property>
+    <property key="kbdr" name="Keyboard dir">dn</property>
+    <property key="kbsl" name="Keymode arrow">True</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+  </packet>
+  <packet type="KBMP" name="Keyboard mapping">
+    <property key="uicm" name="UI command">audb</property>
+    <property key="kbsp" name="Keyboard symbol">npen</property>
+    <property key="kbdr" name="Keyboard dir">up</property>
+    <property key="kbsn" name="Keymode selected">True</property>
+  </packet>
+</packets>

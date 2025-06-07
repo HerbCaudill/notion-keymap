@@ -1,0 +1,2784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrument-techniques>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsti</link><instrument-id>0</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>pres</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vstp</link><instrument-id>0</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>snap</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>scra</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>skpm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>stck</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>stks</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl </link><instrument-id>0</instrument-id><technique>swep</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>snap</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>scra</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>skpm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>stck</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>stks</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>0</instrument-id><technique>swep</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>9544</instrument-id><technique>plen</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>9544</instrument-id><technique>fltp</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>9826</instrument-id><technique>plen</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsl2</link><instrument-id>9826</instrument-id><technique>fltp</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>snap</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>scra</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>skpm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>stck</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>stks</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vslp</link><instrument-id>0</instrument-id><technique>swep</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>snap</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>scra</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>skpm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>stck</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>stks</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>0</instrument-id><technique>swep</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>9544</instrument-id><technique>plen</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>9544</instrument-id><technique>fltp</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>9826</instrument-id><technique>plen</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>vsp2</link><instrument-id>9826</instrument-id><technique>fltp</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>miro</link><instrument-id>0</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>upbw</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>gara</link><instrument-id>0</instrument-id><technique>dnbw</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>spic</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>mart</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>espr</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>sost</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>lyri</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>qleg</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ewql</link><instrument-id>0</instrument-id><technique>rips</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>97</instrument-id><technique>rnot</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>97</instrument-id><technique>scap</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>97</instrument-id><technique>rcap</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2010</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2120</instrument-id><technique>harp</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2100</instrument-id><technique>pddn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2100</instrument-id><technique>pdup</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2101</instrument-id><technique>pddn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2101</instrument-id><technique>pdup</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2102</instrument-id><technique>pddn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2102</instrument-id><technique>pdup</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2124</instrument-id><technique>pddn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2124</instrument-id><technique>pdup</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2121</instrument-id><technique>org3</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>circ</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>harm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>snap</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2210</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2210</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2210</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2210</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2210</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2210</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2211</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2211</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2211</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2211</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2211</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2211</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2212</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2212</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2212</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2212</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2212</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2212</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2213</instrument-id><technique>arco</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2213</instrument-id><technique>sord</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2213</instrument-id><technique>ssor</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2213</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2213</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2213</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2300</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2301</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2302</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2303</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2304</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2305</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2306</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2307</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2308</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2309</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2310</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2311</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2312</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2313</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2314</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2320</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2321</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2322</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2323</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2324</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2325</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2350</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2351</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2352</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2353</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2354</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2356</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2400</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2401</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2402</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2403</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2404</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2405</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2406</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2407</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2408</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2409</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2410</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2411</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2412</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2704</instrument-id><technique>aahs</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2705</instrument-id><technique>oohs</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2705</instrument-id><technique>aahs</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2706</instrument-id><technique>aahs</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2707</instrument-id><technique>oohs</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2707</instrument-id><technique>aahs</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2420</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2421</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2422</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2409</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2412</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2422</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>stck</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2503</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2505</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2512</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2523</instrument-id><technique>smal</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2524</instrument-id><technique>smal</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2528</instrument-id><technique>hand</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2540</instrument-id><technique>open</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2566</instrument-id><technique>smal</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2600</instrument-id><technique>smal</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2601</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2603</instrument-id><technique>smal</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2617</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>rest</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>fstk</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>sbat</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>brsh</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>stks</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>chok</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>snof</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>snon</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2010</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2210</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2211</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2212</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2213</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2300</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2301</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2302</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2303</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2304</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2305</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2306</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2307</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2308</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2309</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2310</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2311</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2312</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2313</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2314</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2350</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2351</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2352</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2353</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2354</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2356</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2400</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2401</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2402</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2403</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2404</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2405</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2406</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2407</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2408</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2409</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2410</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2411</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2412</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2500</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2501</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2503</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2504</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2505</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2508</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2509</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2510</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2512</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2513</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2515</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2518</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2519</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2523</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2524</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2526</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2528</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2539</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2543</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2547</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2550</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2551</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2552</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2556</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2561</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2568</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2571</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2600</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2601</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2602</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2603</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2604</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2606</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2607</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2608</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2610</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2611</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2613</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2615</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2800</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2801</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2806</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2807</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2808</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2320</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2321</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2322</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2323</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2324</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2325</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2420</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2421</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2422</instrument-id><technique>norm</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2305</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2311</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2320</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2321</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2322</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2323</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2324</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2325</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2010</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2201</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2100</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2120</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2500</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2501</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2503</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2504</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2505</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2506</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2507</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2508</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2509</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2510</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2512</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2513</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2514</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2515</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2516</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2517</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2518</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2519</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2520</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2521</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2523</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2524</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2525</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2526</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2528</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2530</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2532</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2536</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2538</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2539</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2540</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2542</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2543</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2544</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2545</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2546</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2547</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2548</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2549</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2550</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2551</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2552</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2553</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2554</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2555</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2556</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2557</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2558</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2559</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2560</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2561</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2562</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2563</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2564</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2565</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2566</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2567</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2568</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2569</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2570</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2571</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2600</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2601</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2602</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2603</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2604</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2605</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2606</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2607</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2608</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2610</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2615</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique force-valid='yes'>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>lvib</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>buck</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>cupm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>doit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>fall</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>fpno</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>hmop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>hrmn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>lfal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>pgcd</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>pgcg</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>pghf</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>pgop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>scop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>sdit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>sgls</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>shak</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>ston</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2000</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>cupm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>doit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>fall</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>fpno</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>hmop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>hrmn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>lfal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>scop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>sgls</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>shak</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2001</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>buck</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>cupm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>doit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>fall</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>fpno</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>hrmn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>lfal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>pgcd</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>pgcg</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>pghf</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>pgop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>scop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>sdit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>ssmr</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>ston</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2002</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>cupm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>fall</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>fpno</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>hrmn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>lfal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>pgcd</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>pghf</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>pgop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2003</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2010</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2010</instrument-id><technique>scop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2010</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>doit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>fall</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>fpno</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>grwl</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>lfal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>rips</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>scop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>sdit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2020</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>doit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>fall</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>fpno</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>grwl</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>lfal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>rips</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>scop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>sdit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>ssmr</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2021</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>doit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>fall</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>fpno</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>grwl</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>lfal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>rips</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>scop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>sdit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>srip</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>ssmr</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2022</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>doit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>fall</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>fpno</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>grwl</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>lfal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>rips</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>scop</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>sdit</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2023</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2121</instrument-id><technique>chim</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2121</instrument-id><technique>org1</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2121</instrument-id><technique>org2</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2121</instrument-id><technique>org4</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2121</instrument-id><technique>org5</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2123</instrument-id><technique>hp4m</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2123</instrument-id><technique>hp6m</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2123</instrument-id><technique>hp8l</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2123</instrument-id><technique>hp8s</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2123</instrument-id><technique>hp8u</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2123</instrument-id><technique>hp8z</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>circ</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>harm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>snap</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2200</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>circ</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>harm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>snap</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2202</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>circ</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>harm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>snap</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2203</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>circ</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>harm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>legn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>snap</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2204</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2210</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2210</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2211</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2211</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2212</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2212</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2213</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2213</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2300</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2300</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2301</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2301</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2302</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2303</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2304</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2304</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2305</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2306</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2307</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2307</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2308</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2308</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2309</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2309</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2310</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2310</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2312</instrument-id><technique>subt</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2313</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2314</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2320</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2320</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2321</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2321</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2322</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2322</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2323</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2323</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2324</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2325</instrument-id><technique>nvib</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2350</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2350</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2351</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2351</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2352</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2352</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2353</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2353</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2354</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2354</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2356</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2356</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2400</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2400</instrument-id><technique>stpd</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2400</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2401</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2401</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2402</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2402</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2403</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2403</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2404</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2404</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2405</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2405</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2406</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2406</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2406</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2407</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2407</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2407</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2408</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2408</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2409</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2409</instrument-id><technique>mvib</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2409</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2410</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2410</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2411</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2411</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2411</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2412</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2420</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2420</instrument-id><technique>stpd</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2420</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2421</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2421</instrument-id><technique>hrmn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2421</instrument-id><technique>stra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2500</instrument-id><technique>chok</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2500</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2501</instrument-id><technique>skpm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2501</instrument-id><technique>thmb</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2501</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>brsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>rmsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>ruff</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>snof</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>stks</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2502</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2503</instrument-id><technique>brsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2503</instrument-id><technique>chok</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2503</instrument-id><technique>dome</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2503</instrument-id><technique>stck</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2503</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2504</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2504</instrument-id><technique>swep</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2505</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2505</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2505</instrument-id><technique>smal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2505</instrument-id><technique>stck</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2505</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2508</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2509</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2509</instrument-id><technique>scra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2509</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2510</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2510</instrument-id><technique>scra</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2510</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2512</instrument-id><technique>smal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2512</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2513</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2515</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2515</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2515</instrument-id><technique>ruff</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2515</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2517</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2518</instrument-id><technique>flut</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2518</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2519</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2523</instrument-id><technique>chok</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2523</instrument-id><technique>stck</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2523</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2524</instrument-id><technique>brsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2524</instrument-id><technique>chok</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2524</instrument-id><technique>stck</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2524</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2526</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2528</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2528</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2528</instrument-id><technique>slsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2528</instrument-id><technique>stck</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2528</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2528</instrument-id><technique>xmte</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2539</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2540</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2543</instrument-id><technique>long</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2543</instrument-id><technique>medm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2545</instrument-id><technique>long</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2545</instrument-id><technique>medm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2546</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2547</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2547</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2547</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2550</instrument-id><technique>gldn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2550</instrument-id><technique>gldu</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2550</instrument-id><technique>glud</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2550</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2550</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2551</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2551</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2551</instrument-id><technique>mute</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2551</instrument-id><technique>rmsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2551</instrument-id><technique>ruff</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2551</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2552</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2552</instrument-id><technique>rmsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2552</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2556</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2556</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2556</instrument-id><technique>rmsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2556</instrument-id><technique>ruff</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2556</instrument-id><technique>stks</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2556</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2558</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2559</instrument-id><technique>slsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2561</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2566</instrument-id><technique>bel1</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2566</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2568</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2569</instrument-id><technique>slsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2569</instrument-id><technique>xmte</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2570</instrument-id><technique>gldn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2570</instrument-id><technique>gldw</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2570</instrument-id><technique>glup</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2570</instrument-id><technique>gluw</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2570</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2571</instrument-id><technique>gldn</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2571</instrument-id><technique>gldu</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2571</instrument-id><technique>gldw</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2571</instrument-id><technique>glud</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2571</instrument-id><technique>glup</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2571</instrument-id><technique>gluw</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2571</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2572</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2572</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2572</instrument-id><technique>rmsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2572</instrument-id><technique>ruff</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2572</instrument-id><technique>stks</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2600</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2600</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2601</instrument-id><technique>smal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2601</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2602</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2602</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2602</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2603</instrument-id><technique>bowd</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2603</instrument-id><technique>damp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2603</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2603</instrument-id><technique>mfas</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2603</instrument-id><technique>mslo</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2603</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2604</instrument-id><technique>bowd</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2604</instrument-id><technique>cmal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2604</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2604</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2606</instrument-id><technique>bowd</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2606</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2606</instrument-id><technique>smal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2606</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2607</instrument-id><technique>smal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2607</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2608</instrument-id><technique>drag</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2608</instrument-id><technique>flam</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2608</instrument-id><technique>rmsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2608</instrument-id><technique>ruff</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2608</instrument-id><technique>stks</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2608</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2610</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2611</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2611</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2615</instrument-id><technique>hmal</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2615</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2617</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>brsh</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>hbat</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2690</instrument-id><technique>snof</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2704</instrument-id><technique>oohs</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2706</instrument-id><technique>oohs</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2800</instrument-id><technique>harm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2800</instrument-id><technique>palm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2801</instrument-id><technique>fing</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2801</instrument-id><technique>harm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2801</instrument-id><technique>palm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>golp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>harm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>mvib</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>pizz</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>pont</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>rest</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>snap</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>tast</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>vibe</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2803</instrument-id><technique>xstg</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2806</instrument-id><technique>brdg</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2806</instrument-id><technique>neck</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2806</instrument-id><technique>pcki</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2806</instrument-id><technique>pckm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2806</instrument-id><technique>pckp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2807</instrument-id><technique>dnbw</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2807</instrument-id><technique>palm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2807</instrument-id><technique>trem</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2807</instrument-id><technique>upbw</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2808</instrument-id><technique>dnbw</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2808</instrument-id><technique>palm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2808</instrument-id><technique>pcki</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2808</instrument-id><technique>pckp</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2808</instrument-id><technique>pick</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2808</instrument-id><technique>upbw</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2830</instrument-id><technique>harm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2830</instrument-id><technique>palm</technique>
+	</instrument-technique>
+	<instrument-technique>
+		<link>ntn3</link><instrument-id>2830</instrument-id><technique>slap</technique>
+	</instrument-technique>
+</instrument-techniques>

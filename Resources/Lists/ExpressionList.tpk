@@ -1,0 +1,2616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expressions>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">circ</property>
+    <property key="exor" name="Expression level">10</property>
+    <property key="excf" name="Expression conflict">circle</property>
+    <property key="nttc" name="Note technique">circ</property>
+    <property key="uicm" name="UI command">xcir</property>
+    <property key="gyid" name="Glyph ID">xcir</property>
+    <property key="exnm" name="Expression name">Circle symbol</property>
+    <property key="extp" name="Expression compat">circ</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ccir</property>
+    <property key="exor" name="Expression level">10</property>
+    <property key="excf" name="Expression conflict">circle</property>
+    <property key="nttc" name="Note technique">ccir</property>
+    <property key="uicm" name="UI command">xcut</property>
+    <property key="gyid" name="Glyph ID">xcib</property>
+    <property key="exnm" name="Expression name">Cut circle symbol</property>
+    <property key="extp" name="Expression compat">cirb</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">plus</property>
+    <property key="exor" name="Expression level">11</property>
+    <property key="excf" name="Expression conflict">plus</property>
+    <property key="nttc" name="Note technique">plus</property>
+    <property key="uicm" name="UI command">xpls</property>
+    <property key="gyid" name="Glyph ID">xpls</property>
+    <property key="exnm" name="Expression name">Plus sign</property>
+    <property key="extp" name="Expression compat">plus</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">snap</property>
+    <property key="exor" name="Expression level">12</property>
+    <property key="excf" name="Expression conflict">snap</property>
+    <property key="nttc" name="Note technique">snap</property>
+    <property key="uicm" name="UI command">xsnp</property>
+    <property key="gyid" name="Glyph ID">xsnp</property>
+    <property key="exnm" name="Expression name">Bartók pizz</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pddn</property>
+    <property key="exor" name="Expression level">30</property>
+    <property key="excf" name="Expression conflict">pedal</property>
+    <property key="uicm" name="UI command">pddn</property>
+    <property key="gyid" name="Glyph ID">xpdn</property>
+    <property key="extp" name="Expression compat">pddn</property>
+    <property key="atps" name="Staff side">belo</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pdup</property>
+    <property key="exor" name="Expression level">30</property>
+    <property key="excf" name="Expression conflict">pedal</property>
+    <property key="uicm" name="UI command">pdup</property>
+    <property key="gyid" name="Glyph ID">xpup</property>
+    <property key="extp" name="Expression compat">pdup</property>
+    <property key="atps" name="Staff side">belo</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">lvib</property>
+    <property key="exor" name="Expression level">35</property>
+    <property key="excf" name="Expression conflict">lv</property>
+    <property key="uicm" name="UI command">xlvb</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">l.v.</property>
+    <property key="exnm" name="Expression name">l.v. (laissez vibrer)</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">dnbw</property>
+    <property key="exor" name="Expression level">40</property>
+    <property key="excf" name="Expression conflict">bowing</property>
+    <property key="nttc" name="Note technique">dnbw</property>
+    <property key="uicm" name="UI command">xdbw</property>
+    <property key="gyid" name="Glyph ID">xdnb</property>
+    <property key="exnm" name="Expression name">Down-bow</property>
+    <property key="extp" name="Expression compat">dnbw</property>
+    <property key="exxr" name="Expression xrefsym">216</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">upbw</property>
+    <property key="exor" name="Expression level">40</property>
+    <property key="excf" name="Expression conflict">bowing</property>
+    <property key="nttc" name="Note technique">upbw</property>
+    <property key="uicm" name="UI command">xubw</property>
+    <property key="gyid" name="Glyph ID">xupb</property>
+    <property key="exnm" name="Expression name">Up-bow</property>
+    <property key="extp" name="Expression compat">upbw</property>
+    <property key="exxr" name="Expression xrefsym">215</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hmon</property>
+    <property key="exor" name="Expression level">50</property>
+    <property key="excf" name="Expression conflict">hammer</property>
+    <property key="nttc" name="Note technique">hmon</property>
+    <property key="uicm" name="UI command">xham</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">H</property>
+    <property key="exnm" name="Expression name">Hammer-on</property>
+    <property key="exsh" name="Expression shortcuts">hammer;h</property>
+    <property key="extp" name="Expression compat">ehon</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">plof</property>
+    <property key="exor" name="Expression level">50</property>
+    <property key="excf" name="Expression conflict">hammer</property>
+    <property key="nttc" name="Note technique">plof</property>
+    <property key="uicm" name="UI command">xpul</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">P</property>
+    <property key="exnm" name="Expression name">Pull-off</property>
+    <property key="exsh" name="Expression shortcuts">pull off</property>
+    <property key="extp" name="Expression compat">epof</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gtap</property>
+    <property key="exor" name="Expression level">50</property>
+    <property key="excf" name="Expression conflict">hammer</property>
+    <property key="nttc" name="Note technique">hmon</property>
+    <property key="uicm" name="UI command">xtap</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">T</property>
+    <property key="exnm" name="Expression name">Tap (guitar)</property>
+    <property key="exsh" name="Expression shortcuts">tap</property>
+    <property key="extp" name="Expression compat">egtp</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ontr</property>
+    <property key="exor" name="Expression level">60</property>
+    <property key="excf" name="Expression conflict">ornament</property>
+    <property key="nttc" name="Note technique">ontr</property>
+    <property key="uicm" name="UI command">ortr</property>
+    <property key="gyid" name="Glyph ID">ortr</property>
+    <property key="exnm" name="Expression name">Trill</property>
+    <property key="exsh" name="Expression shortcuts">ontr</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">onmd</property>
+    <property key="exor" name="Expression level">60</property>
+    <property key="excf" name="Expression conflict">ornament</property>
+    <property key="nttc" name="Note technique">onmd</property>
+    <property key="uicm" name="UI command">ormd</property>
+    <property key="gyid" name="Glyph ID">ormd</property>
+    <property key="exnm" name="Expression name">Mordant</property>
+    <property key="exsh" name="Expression shortcuts">onmd</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ondm</property>
+    <property key="exor" name="Expression level">60</property>
+    <property key="excf" name="Expression conflict">ornament</property>
+    <property key="nttc" name="Note technique">ondm</property>
+    <property key="uicm" name="UI command">ordm</property>
+    <property key="gyid" name="Glyph ID">ordm</property>
+    <property key="exnm" name="Expression name">Double mordant</property>
+    <property key="exsh" name="Expression shortcuts">ondm</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ontm</property>
+    <property key="exor" name="Expression level">60</property>
+    <property key="excf" name="Expression conflict">ornament</property>
+    <property key="nttc" name="Note technique">ontm</property>
+    <property key="uicm" name="UI command">ortt</property>
+    <property key="gyid" name="Glyph ID">ortm</property>
+    <property key="exnm" name="Expression name">Trill with mordant</property>
+    <property key="exsh" name="Expression shortcuts">ontm</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ontt</property>
+    <property key="exor" name="Expression level">60</property>
+    <property key="excf" name="Expression conflict">ornament</property>
+    <property key="nttc" name="Note technique">ontt</property>
+    <property key="uicm" name="UI command">ortm</property>
+    <property key="gyid" name="Glyph ID">ortt</property>
+    <property key="exnm" name="Expression name">Trill with termination</property>
+    <property key="exsh" name="Expression shortcuts">ontt</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">onta</property>
+    <property key="exor" name="Expression level">60</property>
+    <property key="excf" name="Expression conflict">ornament</property>
+    <property key="nttc" name="Note technique">onta</property>
+    <property key="uicm" name="UI command">otpa</property>
+    <property key="gyid" name="Glyph ID">otpa</property>
+    <property key="exnm" name="Expression name">Trill, prefix above</property>
+    <property key="exsh" name="Expression shortcuts">onta</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ontb</property>
+    <property key="exor" name="Expression level">60</property>
+    <property key="excf" name="Expression conflict">ornament</property>
+    <property key="nttc" name="Note technique">ontb</property>
+    <property key="uicm" name="UI command">otpb</property>
+    <property key="gyid" name="Glyph ID">otpb</property>
+    <property key="exnm" name="Expression name">Trill, prefix below</property>
+    <property key="exsh" name="Expression shortcuts">ontb</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">onat</property>
+    <property key="exor" name="Expression level">60</property>
+    <property key="excf" name="Expression conflict">ornament</property>
+    <property key="nttc" name="Note technique">onat</property>
+    <property key="uicm" name="UI command">opat</property>
+    <property key="gyid" name="Glyph ID">opat</property>
+    <property key="exnm" name="Expression name">Trill with term., prefix above</property>
+    <property key="exsh" name="Expression shortcuts">onat</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">onbt</property>
+    <property key="exor" name="Expression level">60</property>
+    <property key="excf" name="Expression conflict">ornament</property>
+    <property key="nttc" name="Note technique">onbt</property>
+    <property key="uicm" name="UI command">opbt</property>
+    <property key="gyid" name="Glyph ID">opbt</property>
+    <property key="exnm" name="Expression name">Trill with term., prefix below</property>
+    <property key="exsh" name="Expression shortcuts">onbt</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ontn</property>
+    <property key="exor" name="Expression level">60</property>
+    <property key="excf" name="Expression conflict">ornament</property>
+    <property key="nttc" name="Note technique">ontn</property>
+    <property key="uicm" name="UI command">ortn</property>
+    <property key="gyid" name="Glyph ID">ortn</property>
+    <property key="exnm" name="Expression name">Turn</property>
+    <property key="exsh" name="Expression shortcuts">ontn</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fng1</property>
+    <property key="exor" name="Expression level">80</property>
+    <property key="excf" name="Expression conflict">fingering</property>
+    <property key="uicm" name="UI command">fng1</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="extx" name="Expression text">1</property>
+    <property key="exnm" name="Expression name">1 (fingering)</property>
+    <property key="extp" name="Expression compat">fng1</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fng2</property>
+    <property key="exor" name="Expression level">80</property>
+    <property key="excf" name="Expression conflict">fingering</property>
+    <property key="uicm" name="UI command">fng2</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="extx" name="Expression text">2</property>
+    <property key="exnm" name="Expression name">2 (fingering)</property>
+    <property key="extp" name="Expression compat">fng2</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fng3</property>
+    <property key="exor" name="Expression level">80</property>
+    <property key="excf" name="Expression conflict">fingering</property>
+    <property key="uicm" name="UI command">fng3</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="extx" name="Expression text">3</property>
+    <property key="exnm" name="Expression name">3 (fingering)</property>
+    <property key="extp" name="Expression compat">fng3</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fng4</property>
+    <property key="exor" name="Expression level">80</property>
+    <property key="excf" name="Expression conflict">fingering</property>
+    <property key="uicm" name="UI command">fng4</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="extx" name="Expression text">4</property>
+    <property key="exnm" name="Expression name">4 (fingering)</property>
+    <property key="extp" name="Expression compat">fng4</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fng5</property>
+    <property key="exor" name="Expression level">80</property>
+    <property key="excf" name="Expression conflict">fingering</property>
+    <property key="uicm" name="UI command">fng5</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="extx" name="Expression text">5</property>
+    <property key="exnm" name="Expression name">5 (fingering)</property>
+    <property key="extp" name="Expression compat">fng5</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fngt</property>
+    <property key="exor" name="Expression level">80</property>
+    <property key="excf" name="Expression conflict">fingering</property>
+    <property key="uicm" name="UI command">fngT</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="extx" name="Expression text">T</property>
+    <property key="exnm" name="Expression name">T (fingering)</property>
+    <property key="extp" name="Expression compat">fngT</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pckp</property>
+    <property key="exor" name="Expression level">70</property>
+    <property key="excf" name="Expression conflict">plucking</property>
+    <property key="nttc" name="Note technique">pckp</property>
+    <property key="uicm" name="UI command">plkp</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">plck</property>
+    <property key="extx" name="Expression text">p</property>
+    <property key="exnm" name="Expression name">p (thumb)</property>
+    <property key="extp" name="Expression compat">plkp</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pcki</property>
+    <property key="exor" name="Expression level">70</property>
+    <property key="excf" name="Expression conflict">plucking</property>
+    <property key="nttc" name="Note technique">pcki</property>
+    <property key="uicm" name="UI command">plki</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">plck</property>
+    <property key="extx" name="Expression text">i</property>
+    <property key="exnm" name="Expression name">i (index)</property>
+    <property key="extp" name="Expression compat">plki</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pckm</property>
+    <property key="exor" name="Expression level">70</property>
+    <property key="excf" name="Expression conflict">plucking</property>
+    <property key="nttc" name="Note technique">pckm</property>
+    <property key="uicm" name="UI command">plkm</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">plck</property>
+    <property key="extx" name="Expression text">m</property>
+    <property key="exnm" name="Expression name">m (middle)</property>
+    <property key="extp" name="Expression compat">plkm</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pcka</property>
+    <property key="exor" name="Expression level">70</property>
+    <property key="excf" name="Expression conflict">plucking</property>
+    <property key="nttc" name="Note technique">pcka</property>
+    <property key="uicm" name="UI command">plka</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">plck</property>
+    <property key="extx" name="Expression text">a</property>
+    <property key="exnm" name="Expression name">a (ring finger)</property>
+    <property key="exsh" name="Expression shortcuts">aa</property>
+    <property key="extp" name="Expression compat">plka</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pckc</property>
+    <property key="exor" name="Expression level">70</property>
+    <property key="excf" name="Expression conflict">plucking</property>
+    <property key="nttc" name="Note technique">pckc</property>
+    <property key="uicm" name="UI command">plkc</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">plck</property>
+    <property key="extx" name="Expression text">c</property>
+    <property key="exnm" name="Expression name">c (pinky)</property>
+    <property key="extp" name="Expression compat">plkc</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gts0</property>
+    <property key="exor" name="Expression level">85</property>
+    <property key="excf" name="Expression conflict">string</property>
+    <property key="uicm" name="UI command">gts0</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="gyid" name="Glyph ID">gts0</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="exnm" name="Expression name">String 0</property>
+    <property key="extp" name="Expression compat">gts0</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gts1</property>
+    <property key="exor" name="Expression level">85</property>
+    <property key="excf" name="Expression conflict">string</property>
+    <property key="uicm" name="UI command">gts1</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="gyid" name="Glyph ID">gts1</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="exnm" name="Expression name">String 1</property>
+    <property key="extp" name="Expression compat">gts1</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gts2</property>
+    <property key="exor" name="Expression level">85</property>
+    <property key="excf" name="Expression conflict">string</property>
+    <property key="uicm" name="UI command">gts2</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="gyid" name="Glyph ID">gts2</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="exnm" name="Expression name">String 2</property>
+    <property key="extp" name="Expression compat">gts2</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gts3</property>
+    <property key="exor" name="Expression level">85</property>
+    <property key="excf" name="Expression conflict">string</property>
+    <property key="uicm" name="UI command">gts3</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="gyid" name="Glyph ID">gts3</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="exnm" name="Expression name">String 3</property>
+    <property key="extp" name="Expression compat">gts3</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gts4</property>
+    <property key="exor" name="Expression level">85</property>
+    <property key="excf" name="Expression conflict">string</property>
+    <property key="uicm" name="UI command">gts4</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="gyid" name="Glyph ID">gts4</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="exnm" name="Expression name">String 4</property>
+    <property key="extp" name="Expression compat">gts4</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gts5</property>
+    <property key="exor" name="Expression level">85</property>
+    <property key="excf" name="Expression conflict">string</property>
+    <property key="uicm" name="UI command">gts5</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="gyid" name="Glyph ID">gts5</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="exnm" name="Expression name">String 5</property>
+    <property key="extp" name="Expression compat">gts5</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gts6</property>
+    <property key="exor" name="Expression level">85</property>
+    <property key="excf" name="Expression conflict">string</property>
+    <property key="uicm" name="UI command">gts6</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="gyid" name="Glyph ID">gts6</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="exnm" name="Expression name">String 6</property>
+    <property key="extp" name="Expression compat">gts6</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gts7</property>
+    <property key="exor" name="Expression level">85</property>
+    <property key="excf" name="Expression conflict">string</property>
+    <property key="uicm" name="UI command">gts7</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="gyid" name="Glyph ID">gts7</property>
+    <property key="syid" name="Style ID">fing</property>
+    <property key="exnm" name="Expression name">String 7</property>
+    <property key="extp" name="Expression compat">gts7</property>
+    <property key="exbh" name="Expression both sides">True</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">port</property>
+    <property key="exor" name="Expression level">90</property>
+    <property key="excf" name="Expression conflict">gliss</property>
+    <property key="nttc" name="Note technique">port</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">port.</property>
+    <property key="exnm" name="Expression name">Port.</property>
+    <property key="exim" name="Expression imports">port;portamento</property>
+    <property key="exsh" name="Expression shortcuts">port</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">glup</property>
+    <property key="exor" name="Expression level">90</property>
+    <property key="excf" name="Expression conflict">gliss</property>
+    <property key="nttc" name="Note technique">glup</property>
+    <property key="uicm" name="UI command">xgup</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">gliss. up</property>
+    <property key="exnm" name="Expression name">Gliss. up</property>
+    <property key="exim" name="Expression imports">gliss up;gliss. up;glissando up;gliss;glissando</property>
+    <property key="exsh" name="Expression shortcuts">gliss up;glup</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gldn</property>
+    <property key="exor" name="Expression level">90</property>
+    <property key="excf" name="Expression conflict">gliss</property>
+    <property key="nttc" name="Note technique">gldn</property>
+    <property key="uicm" name="UI command">xgdn</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">gliss. down</property>
+    <property key="exnm" name="Expression name">Gliss. down</property>
+    <property key="exim" name="Expression imports">gliss down;gliss. down;glissando down</property>
+    <property key="exsh" name="Expression shortcuts">gliss down;gldn</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gluw</property>
+    <property key="exor" name="Expression level">90</property>
+    <property key="excf" name="Expression conflict">gliss</property>
+    <property key="nttc" name="Note technique">gluw</property>
+    <property key="uicm" name="UI command">xguw</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">gliss. up slow</property>
+    <property key="exnm" name="Expression name">Gliss. up (slow)</property>
+    <property key="exsh" name="Expression shortcuts">gliss up slow;gluw</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gldw</property>
+    <property key="exor" name="Expression level">90</property>
+    <property key="excf" name="Expression conflict">gliss</property>
+    <property key="nttc" name="Note technique">gldw</property>
+    <property key="uicm" name="UI command">xgdw</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">gliss. down slow</property>
+    <property key="exnm" name="Expression name">Gliss. down (slow)</property>
+    <property key="exsh" name="Expression shortcuts">gliss down;gldw</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">glud</property>
+    <property key="exor" name="Expression level">90</property>
+    <property key="excf" name="Expression conflict">gliss</property>
+    <property key="nttc" name="Note technique">glud</property>
+    <property key="uicm" name="UI command">xgud</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">gliss. up/down</property>
+    <property key="exnm" name="Expression name">Gliss. up then down</property>
+    <property key="exsh" name="Expression shortcuts">gliss up down;glud</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">gldu</property>
+    <property key="exor" name="Expression level">90</property>
+    <property key="excf" name="Expression conflict">gliss</property>
+    <property key="nttc" name="Note technique">gldu</property>
+    <property key="uicm" name="UI command">xgdu</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">gliss. down/up</property>
+    <property key="exnm" name="Expression name">Gliss. down then up</property>
+    <property key="exsh" name="Expression shortcuts">gliss down up;gldu</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pgcd</property>
+    <property key="exor" name="Expression level">91</property>
+    <property key="excf" name="Expression conflict">plunge</property>
+    <property key="sttc" name="Start technique">pgcd</property>
+    <property key="uicm" name="UI command">xpgd</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">plunger</property>
+    <property key="exnm" name="Expression name">Plunger</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pghf</property>
+    <property key="exor" name="Expression level">91</property>
+    <property key="excf" name="Expression conflict">plunge</property>
+    <property key="sttc" name="Start technique">pghf</property>
+    <property key="uicm" name="UI command">xpgh</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">half-plunger</property>
+    <property key="exnm" name="Expression name">Half-plunger</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pgcg</property>
+    <property key="exor" name="Expression level">91</property>
+    <property key="excf" name="Expression conflict">plunge</property>
+    <property key="nttc" name="Note technique">pgcg</property>
+    <property key="uicm" name="UI command">xpgc</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">plunger closing</property>
+    <property key="exnm" name="Expression name">Plunger closing</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pgop</property>
+    <property key="exor" name="Expression level">91</property>
+    <property key="excf" name="Expression conflict">plunge</property>
+    <property key="nttc" name="Note technique">pgop</property>
+    <property key="uicm" name="UI command">xpgo</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">plunger opening</property>
+    <property key="exnm" name="Expression name">Plunger opening</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hmop</property>
+    <property key="exor" name="Expression level">91</property>
+    <property key="excf" name="Expression conflict">plunge</property>
+    <property key="nttc" name="Note technique">hmop</property>
+    <property key="uicm" name="UI command">xhmo</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">harmon op.</property>
+    <property key="exnm" name="Expression name">Harmon mute opening</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">trem</property>
+    <property key="exor" name="Expression level">100</property>
+    <property key="excf" name="Expression conflict">trem</property>
+    <property key="nttc" name="Note technique">trem</property>
+    <property key="uicm" name="UI command">cts3</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">trem.</property>
+    <property key="exnm" name="Expression name">Tremolo</property>
+    <property key="exim" name="Expression imports">trem;tremolo;tremolando</property>
+    <property key="exsh" name="Expression shortcuts">trem;tremolo</property>
+    <property key="exxr" name="Expression xrefsym">101</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">vibe</property>
+    <property key="exor" name="Expression level">110</property>
+    <property key="excf" name="Expression conflict">vib</property>
+    <property key="sttc" name="Start technique">vibe</property>
+    <property key="entc" name="End techniques">vibe nvib mvib</property>
+    <property key="uicm" name="UI command">xvib</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">vib.</property>
+    <property key="exnm" name="Expression name">Vib.</property>
+    <property key="exim" name="Expression imports">vib;vibrato</property>
+    <property key="exsh" name="Expression shortcuts">vib</property>
+    <property key="exxr" name="Expression xrefsym">288</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">nvib</property>
+    <property key="exor" name="Expression level">110</property>
+    <property key="excf" name="Expression conflict">vib</property>
+    <property key="sttc" name="Start technique">nvib</property>
+    <property key="entc" name="End techniques">vibe nvib mvib</property>
+    <property key="uicm" name="UI command">xnvb</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">non-vib.</property>
+    <property key="exnm" name="Expression name">Non-vib.</property>
+    <property key="exim" name="Expression imports">non-vib;non-vibrato</property>
+    <property key="exsh" name="Expression shortcuts">nonvib;nvib</property>
+    <property key="exxr" name="Expression xrefsym">287</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">mvib</property>
+    <property key="exor" name="Expression level">110</property>
+    <property key="excf" name="Expression conflict">vib</property>
+    <property key="sttc" name="Start technique">mvib</property>
+    <property key="entc" name="End techniques">vibe nvib mvib</property>
+    <property key="uicm" name="UI command">xmvb</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">molto vib.</property>
+    <property key="exnm" name="Expression name">Molto vib.</property>
+    <property key="exim" name="Expression imports">molto vib;molto vibrato</property>
+    <property key="exsh" name="Expression shortcuts">molto vib;mvib</property>
+    <property key="exxr" name="Expression xrefsym">326</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">sord</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="sttc" name="Start technique">mute</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xsrd</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">con sord.</property>
+    <property key="exnm" name="Expression name">Con sord.</property>
+    <property key="exim" name="Expression imports">sord;con sord</property>
+    <property key="exsh" name="Expression shortcuts">sord</property>
+    <property key="exxr" name="Expression xrefsym">202</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ssor</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xsza</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">senza sord.</property>
+    <property key="exnm" name="Expression name">Senza sord.</property>
+    <property key="exim" name="Expression imports">senza sord</property>
+    <property key="exsh" name="Expression shortcuts">senza sord;senza</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">mute</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="sttc" name="Start technique">mute</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xmut</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">with mute</property>
+    <property key="exnm" name="Expression name">With mute</property>
+    <property key="exim" name="Expression imports">mute;with mute;muted</property>
+    <property key="exsh" name="Expression shortcuts">mute</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">open</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xopn</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">open</property>
+    <property key="exnm" name="Expression name">Open</property>
+    <property key="exxr" name="Expression xrefsym">261</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">mutf</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xmof</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">mute off</property>
+    <property key="exnm" name="Expression name">Mute off</property>
+    <property key="exxr" name="Expression xrefsym">260</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">stra</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="sttc" name="Start technique">stra</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xsta</property>
+    <property key="exct" name="Expression categories">Brass</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">straight mute</property>
+    <property key="exnm" name="Expression name">Straight mute</property>
+    <property key="exim" name="Expression imports">straight;straight mute</property>
+    <property key="exsh" name="Expression shortcuts">straight</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cupm</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="sttc" name="Start technique">cupm</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xcup</property>
+    <property key="exct" name="Expression categories">Brass</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">cup</property>
+    <property key="exnm" name="Expression name">Cup mute</property>
+    <property key="exim" name="Expression imports">cup;cup mute</property>
+    <property key="exsh" name="Expression shortcuts">cup</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">buck</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="sttc" name="Start technique">buck</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xbuk</property>
+    <property key="exct" name="Expression categories">Brass</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">bucket</property>
+    <property key="exnm" name="Expression name">Bucket mute</property>
+    <property key="exim" name="Expression imports">bucket;bucket mute</property>
+    <property key="exsh" name="Expression shortcuts">bucket</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hrmn</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="sttc" name="Start technique">hrmn</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xhar</property>
+    <property key="exct" name="Expression categories">Brass</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">harmon</property>
+    <property key="exnm" name="Expression name">Harmon mute</property>
+    <property key="exim" name="Expression imports">harmon;harmon mute</property>
+    <property key="exsh" name="Expression shortcuts">harmon</property>
+    <property key="exxr" name="Expression xrefsym">224</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ston</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="sttc" name="Start technique">ston</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xton</property>
+    <property key="exct" name="Expression categories">Brass</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">solo-tone</property>
+    <property key="exnm" name="Expression name">Solo-tone mute</property>
+    <property key="exim" name="Expression imports">solo-tone;solotone</property>
+    <property key="exsh" name="Expression shortcuts">solo-tone;solotone</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">stpd</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="sttc" name="Start technique">stpd</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xsto</property>
+    <property key="exct" name="Expression categories">Brass</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">stopped</property>
+    <property key="exnm" name="Expression name">Stopped</property>
+    <property key="exim" name="Expression imports">stopped;hand stopped</property>
+    <property key="exsh" name="Expression shortcuts">stopped;hand stopped</property>
+    <property key="exxr" name="Expression xrefsym">285</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">grwl</property>
+    <property key="exor" name="Expression level">120</property>
+    <property key="excf" name="Expression conflict">mute</property>
+    <property key="sttc" name="Start technique">grwl</property>
+    <property key="entc" name="End techniques">mute stra cupm buck hrmn ston stpd grwl pgcd pghf</property>
+    <property key="uicm" name="UI command">xgwl</property>
+    <property key="exct" name="Expression categories">Jazz</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">growl</property>
+    <property key="exnm" name="Expression name">Growl</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">arco</property>
+    <property key="exor" name="Expression level">130</property>
+    <property key="excf" name="Expression conflict">strings</property>
+    <property key="entc" name="End techniques">arco pizz legn pont tast bhnd</property>
+    <property key="uicm" name="UI command">xarc</property>
+    <property key="exct" name="Expression categories">Strings</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">arco</property>
+    <property key="exnm" name="Expression name">Arco</property>
+    <property key="exim" name="Expression imports">arco</property>
+    <property key="exsh" name="Expression shortcuts">arco</property>
+    <property key="exxr" name="Expression xrefsym">201</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pizz</property>
+    <property key="exor" name="Expression level">130</property>
+    <property key="excf" name="Expression conflict">strings</property>
+    <property key="sttc" name="Start technique">pizz</property>
+    <property key="entc" name="End techniques">arco pizz legn pont tast bhnd</property>
+    <property key="uicm" name="UI command">xpiz</property>
+    <property key="exct" name="Expression categories">Strings</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">pizz.</property>
+    <property key="exnm" name="Expression name">Pizz.</property>
+    <property key="exim" name="Expression imports">pizz;pizzicato</property>
+    <property key="exsh" name="Expression shortcuts">pizz</property>
+    <property key="exxr" name="Expression xrefsym">204</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">legn</property>
+    <property key="exor" name="Expression level">130</property>
+    <property key="excf" name="Expression conflict">strings</property>
+    <property key="sttc" name="Start technique">legn</property>
+    <property key="entc" name="End techniques">arco pizz legn pont tast bhnd</property>
+    <property key="uicm" name="UI command">xleg</property>
+    <property key="exct" name="Expression categories">Strings</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">col legno</property>
+    <property key="exnm" name="Expression name">Col legno</property>
+    <property key="exxr" name="Expression xrefsym">321</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pont</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="excf" name="Expression conflict">strings</property>
+    <property key="sttc" name="Start technique">pont</property>
+    <property key="entc" name="End techniques">arco pizz legn pont tast bhnd</property>
+    <property key="uicm" name="UI command">xpon</property>
+    <property key="exct" name="Expression categories">Strings</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">sul pont.</property>
+    <property key="exnm" name="Expression name">Sul pont.</property>
+    <property key="exim" name="Expression imports">pont;sul pont</property>
+    <property key="exxr" name="Expression xrefsym">205</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">tast</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="excf" name="Expression conflict">strings</property>
+    <property key="sttc" name="Start technique">tast</property>
+    <property key="entc" name="End techniques">arco pizz legn pont tast bhnd</property>
+    <property key="uicm" name="UI command">xtas</property>
+    <property key="exct" name="Expression categories">Strings</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">sul tasto</property>
+    <property key="exnm" name="Expression name">Sul tasto</property>
+    <property key="exxr" name="Expression xrefsym">207</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">bhnd</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="excf" name="Expression conflict">strings</property>
+    <property key="sttc" name="Start technique">bhnd</property>
+    <property key="entc" name="End techniques">arco pizz legn pont tast bhnd</property>
+    <property key="uicm" name="UI command">xbeh</property>
+    <property key="exct" name="Expression categories">Strings</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">behind bridge</property>
+    <property key="exnm" name="Expression name">Behind the bridge</property>
+    <property key="exxr" name="Expression xrefsym">208</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">sost</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="sttc" name="Start technique">sost</property>
+    <property key="uicm" name="UI command">xsos</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">sostenuto</property>
+    <property key="exnm" name="Expression name">Sostenuto</property>
+    <property key="exsh" name="Expression shortcuts">sost</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">espr</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="sttc" name="Start technique">espr</property>
+    <property key="uicm" name="UI command">xesp</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">espressivo</property>
+    <property key="exnm" name="Expression name">Espressivo</property>
+    <property key="exsh" name="Expression shortcuts">expr;espr</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">deta</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="sttc" name="Start technique">deta</property>
+    <property key="uicm" name="UI command">xdet</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">détaché</property>
+    <property key="exnm" name="Expression name">Détaché</property>
+    <property key="exsh" name="Expression shortcuts">deta</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">flau</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="sttc" name="Start technique">flau</property>
+    <property key="uicm" name="UI command">xfla</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">flautando</property>
+    <property key="exnm" name="Expression name">Flautando</property>
+    <property key="exsh" name="Expression shortcuts">flaut</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">mart</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="sttc" name="Start technique">mart</property>
+    <property key="uicm" name="UI command">xmrt</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">martelé</property>
+    <property key="exnm" name="Expression name">Martelé</property>
+    <property key="exsh" name="Expression shortcuts">mart;martele</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">marc</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="sttc" name="Start technique">marc</property>
+    <property key="uicm" name="UI command">xmrc</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">marcato</property>
+    <property key="exnm" name="Expression name">Marcato</property>
+    <property key="exsh" name="Expression shortcuts">marc</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">spic</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="sttc" name="Start technique">spic</property>
+    <property key="uicm" name="UI command">xspi</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">spiccato</property>
+    <property key="exnm" name="Expression name">Spiccato</property>
+    <property key="exsh" name="Expression shortcuts">spic</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">harp</property>
+    <property key="exor" name="Expression level">140</property>
+    <property key="uicm" name="UI command">chpt</property>
+    <property key="exct" name="Expression categories">Strings</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">harp tuning</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">brsy</property>
+    <property key="exor" name="Expression level">150</property>
+    <property key="excf" name="Expression conflict">brassy</property>
+    <property key="sttc" name="Start technique">brsy</property>
+    <property key="uicm" name="UI command">xbsy</property>
+    <property key="exct" name="Expression categories">Brass</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">brassy</property>
+    <property key="exnm" name="Expression name">Brassy</property>
+    <property key="exxr" name="Expression xrefsym">223</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">flut</property>
+    <property key="exor" name="Expression level">151</property>
+    <property key="excf" name="Expression conflict">flutter</property>
+    <property key="sttc" name="Start technique">flut</property>
+    <property key="uicm" name="UI command">xflt</property>
+    <property key="exct" name="Expression categories">Brass,Woodwinds</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">fluttertongue</property>
+    <property key="exnm" name="Expression name">Fluttertongue</property>
+    <property key="exim" name="Expression imports">fluttertongue;flutter tongue</property>
+    <property key="exxr" name="Expression xrefsym">105</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">subt</property>
+    <property key="exor" name="Expression level">152</property>
+    <property key="excf" name="Expression conflict">sub-tone</property>
+    <property key="sttc" name="Start technique">subt</property>
+    <property key="uicm" name="UI command">xsub</property>
+    <property key="exct" name="Expression categories">Woodwinds</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">sub-tone</property>
+    <property key="exnm" name="Expression name">Sub-tone</property>
+    <property key="exim" name="Expression imports">sub-tone;subtone</property>
+    <property key="exxr" name="Expression xrefsym">281</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">kysl</property>
+    <property key="exor" name="Expression level">153</property>
+    <property key="excf" name="Expression conflict">kysl</property>
+    <property key="sttc" name="Start technique">kysl</property>
+    <property key="uicm" name="UI command">xkey</property>
+    <property key="exct" name="Expression categories">Woodwinds</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">key slaps</property>
+    <property key="exnm" name="Expression name">Key slaps</property>
+    <property key="exxr" name="Expression xrefsym">289</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">tgsl</property>
+    <property key="exor" name="Expression level">154</property>
+    <property key="excf" name="Expression conflict">tgsl</property>
+    <property key="sttc" name="Start technique">tgsl</property>
+    <property key="uicm" name="UI command">xtgu</property>
+    <property key="exct" name="Expression categories">Woodwinds</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">tongue slaps</property>
+    <property key="exnm" name="Expression name">Tongue slaps</property>
+    <property key="exim" name="Expression imports">tongue slaps;slap tongue</property>
+    <property key="exxr" name="Expression xrefsym">290</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">neck</property>
+    <property key="exor" name="Expression level">160</property>
+    <property key="excf" name="Expression conflict">neck</property>
+    <property key="sttc" name="Start technique">neck</property>
+    <property key="entc" name="End techniques">neck brdg</property>
+    <property key="uicm" name="UI command">xnec</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">neck</property>
+    <property key="exnm" name="Expression name">Neck pickup</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">brdg</property>
+    <property key="exor" name="Expression level">160</property>
+    <property key="excf" name="Expression conflict">neck</property>
+    <property key="sttc" name="Start technique">brdg</property>
+    <property key="entc" name="End techniques">neck brdg</property>
+    <property key="uicm" name="UI command">xbrg</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">bridge</property>
+    <property key="exnm" name="Expression name">Bridge pickup</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fing</property>
+    <property key="exor" name="Expression level">170</property>
+    <property key="excf" name="Expression conflict">fingered</property>
+    <property key="sttc" name="Start technique">fing</property>
+    <property key="entc" name="End techniques">fing pick fstk rest clip xstg golp</property>
+    <property key="uicm" name="UI command">xfnd</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">fingered</property>
+    <property key="exnm" name="Expression name">Fingered</property>
+    <property key="exxr" name="Expression xrefsym">317</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pick</property>
+    <property key="exor" name="Expression level">170</property>
+    <property key="excf" name="Expression conflict">fingered</property>
+    <property key="sttc" name="Start technique">pick</property>
+    <property key="entc" name="End techniques">fing pick fstk rest clip xstg golp</property>
+    <property key="uicm" name="UI command">xpkd</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">picked</property>
+    <property key="exnm" name="Expression name">Picked</property>
+    <property key="exxr" name="Expression xrefsym">228</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fstk</property>
+    <property key="exor" name="Expression level">170</property>
+    <property key="excf" name="Expression conflict">fingered</property>
+    <property key="entc" name="End techniques">fing pick fstk rest clip xstg golp</property>
+    <property key="uicm" name="UI command">xfre</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">free-stroke</property>
+    <property key="exnm" name="Expression name">Free-stroke</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">rest</property>
+    <property key="exor" name="Expression level">170</property>
+    <property key="excf" name="Expression conflict">fingered</property>
+    <property key="sttc" name="Start technique">rest</property>
+    <property key="entc" name="End techniques">fing pick fstk rest clip xstg golp</property>
+    <property key="uicm" name="UI command">xrst</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">rest-stroke</property>
+    <property key="exnm" name="Expression name">Rest-stroke</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">xstg</property>
+    <property key="exor" name="Expression level">171</property>
+    <property key="sttc" name="Start technique">xstg</property>
+    <property key="entc" name="End techniques">fing pick fstk rest clip xstg golp</property>
+    <property key="uicm" name="UI command">xxst</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">cross-string</property>
+    <property key="exnm" name="Expression name">Cross-string</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">golp</property>
+    <property key="exor" name="Expression level">172</property>
+    <property key="sttc" name="Start technique">golp</property>
+    <property key="entc" name="End techniques">fing pick fstk rest clip xstg golp</property>
+    <property key="uicm" name="UI command">xglp</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">golpe</property>
+    <property key="exnm" name="Expression name">Golpe</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">clip</property>
+    <property key="exor" name="Expression level">173</property>
+    <property key="sttc" name="Start technique">clip</property>
+    <property key="entc" name="End techniques">fing pick fstk rest clip xstg golp</property>
+    <property key="exct" name="Expression categories">Guitar</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">paperclips</property>
+    <property key="exnm" name="Expression name">With paperclips</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hp4m</property>
+    <property key="exor" name="Expression level">180</property>
+    <property key="excf" name="Expression conflict">harpsichord</property>
+    <property key="sttc" name="Start technique">hp4m</property>
+    <property key="entc" name="End techniques">hp8l hp8u hp8z hp8s hp6m</property>
+    <property key="uicm" name="UI command">hc4m</property>
+    <property key="exct" name="Expression categories">Harpsichord</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">4&apos; stop</property>
+    <property key="exnm" name="Expression name">4&apos; stop</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hp8l</property>
+    <property key="exor" name="Expression level">180</property>
+    <property key="excf" name="Expression conflict">harpsichord</property>
+    <property key="sttc" name="Start technique">hp8l</property>
+    <property key="entc" name="End techniques">hp4m hp8u hp8z hp8s hp6m</property>
+    <property key="uicm" name="UI command">hc8l</property>
+    <property key="exct" name="Expression categories">Harpsichord</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">8&apos; long</property>
+    <property key="exnm" name="Expression name">8&apos; long stop</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hp8u</property>
+    <property key="exor" name="Expression level">180</property>
+    <property key="excf" name="Expression conflict">harpsichord</property>
+    <property key="sttc" name="Start technique">hp8u</property>
+    <property key="entc" name="End techniques">hp4m hp8l hp8z hp8s hp6m</property>
+    <property key="uicm" name="UI command">hc8u</property>
+    <property key="exct" name="Expression categories">Harpsichord</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">8&apos; lute</property>
+    <property key="exnm" name="Expression name">8&apos; lute stop</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hp8z</property>
+    <property key="exor" name="Expression level">180</property>
+    <property key="excf" name="Expression conflict">harpsichord</property>
+    <property key="sttc" name="Start technique">hp8z</property>
+    <property key="entc" name="End techniques">hp4m hp8l hp8u hp8s hp6m</property>
+    <property key="uicm" name="UI command">hc8z</property>
+    <property key="exct" name="Expression categories">Harpsichord</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">8&apos; nazard</property>
+    <property key="exnm" name="Expression name">8&apos; nazard stop</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hp8s</property>
+    <property key="exor" name="Expression level">180</property>
+    <property key="excf" name="Expression conflict">harpsichord</property>
+    <property key="sttc" name="Start technique">hp8s</property>
+    <property key="entc" name="End techniques">hp4m hp8l hp8u hp8z hp6m</property>
+    <property key="uicm" name="UI command">hc8s</property>
+    <property key="exct" name="Expression categories">Harpsichord</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">8&apos; short</property>
+    <property key="exnm" name="Expression name">8&apos; short stop</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hp6m</property>
+    <property key="exor" name="Expression level">180</property>
+    <property key="excf" name="Expression conflict">harpsichord</property>
+    <property key="sttc" name="Start technique">hp6m</property>
+    <property key="entc" name="End techniques">hp4m hp8l hp8u hp8z hp8s</property>
+    <property key="uicm" name="UI command">hc6m</property>
+    <property key="exct" name="Expression categories">Harpsichord</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">16&apos; stop</property>
+    <property key="exnm" name="Expression name">16&apos; stop</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">plen</property>
+    <property key="exor" name="Expression level">190</property>
+    <property key="excf" name="Expression conflict">organ</property>
+    <property key="sttc" name="Start technique">plen</property>
+    <property key="entc" name="End techniques">fltp</property>
+    <property key="uicm" name="UI command">plen</property>
+    <property key="exct" name="Expression categories">Organ</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">plenum</property>
+    <property key="exnm" name="Expression name">Plenum</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fltp</property>
+    <property key="exor" name="Expression level">190</property>
+    <property key="excf" name="Expression conflict">organ</property>
+    <property key="sttc" name="Start technique">fltp</property>
+    <property key="entc" name="End techniques">plen</property>
+    <property key="uicm" name="UI command">fltp</property>
+    <property key="exct" name="Expression categories">Organ</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">flute stop</property>
+    <property key="exnm" name="Expression name">Flute stop</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">mslo</property>
+    <property key="exor" name="Expression level">210</property>
+    <property key="excf" name="Expression conflict">motor</property>
+    <property key="sttc" name="Start technique">mslo</property>
+    <property key="entc" name="End techniques">mslo mfas</property>
+    <property key="uicm" name="UI command">xmts</property>
+    <property key="exct" name="Expression categories">Mallets</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">motor slow</property>
+    <property key="exnm" name="Expression name">Motor slow</property>
+    <property key="exxr" name="Expression xrefsym">291</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">mfas</property>
+    <property key="exor" name="Expression level">210</property>
+    <property key="excf" name="Expression conflict">motor</property>
+    <property key="sttc" name="Start technique">mfas</property>
+    <property key="entc" name="End techniques">mslo mfas</property>
+    <property key="uicm" name="UI command">xmtf</property>
+    <property key="exct" name="Expression categories">Mallets</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">motor fast</property>
+    <property key="exnm" name="Expression name">Motor fast</property>
+    <property key="exxr" name="Expression xrefsym">292</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">moff</property>
+    <property key="exor" name="Expression level">210</property>
+    <property key="excf" name="Expression conflict">motor</property>
+    <property key="entc" name="End techniques">mslo mfas</property>
+    <property key="uicm" name="UI command">xmto</property>
+    <property key="exct" name="Expression categories">Mallets</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">motor off</property>
+    <property key="exnm" name="Expression name">Motor off</property>
+    <property key="exxr" name="Expression xrefsym">293</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">rall</property>
+    <property key="exor" name="Expression level">220</property>
+    <property key="excf" name="Expression conflict">roll-all</property>
+    <property key="sttc" name="Start technique">rall</property>
+    <property key="uicm" name="UI command">xrll</property>
+    <property key="exct" name="Expression categories">Mallets</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">roll all</property>
+    <property key="exnm" name="Expression name">Roll all</property>
+    <property key="exxr" name="Expression xrefsym">294</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">stck</property>
+    <property key="exor" name="Expression level">230</property>
+    <property key="excf" name="Expression conflict">sticks</property>
+    <property key="sttc" name="Start technique">stck</property>
+    <property key="entc" name="End techniques">brsh stck bowd hand hmal smal cmal</property>
+    <property key="uicm" name="UI command">xstk</property>
+    <property key="exct" name="Expression categories">Drum set</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">sticks</property>
+    <property key="exnm" name="Expression name">Sticks</property>
+    <property key="exxr" name="Expression xrefsym">271</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">brsh</property>
+    <property key="exor" name="Expression level">230</property>
+    <property key="excf" name="Expression conflict">sticks</property>
+    <property key="sttc" name="Start technique">brsh</property>
+    <property key="entc" name="End techniques">brsh stck bowd hand hmal smal cmal</property>
+    <property key="uicm" name="UI command">xbrs</property>
+    <property key="exct" name="Expression categories">Drum set</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">brushes</property>
+    <property key="exnm" name="Expression name">Brushes</property>
+    <property key="exxr" name="Expression xrefsym">270</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">bowd</property>
+    <property key="exor" name="Expression level">230</property>
+    <property key="excf" name="Expression conflict">sticks</property>
+    <property key="sttc" name="Start technique">bowd</property>
+    <property key="entc" name="End techniques">brsh stck bowd hand hmal smal cmal</property>
+    <property key="uicm" name="UI command">xbow</property>
+    <property key="exct" name="Expression categories">Mallets</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">bowed</property>
+    <property key="exnm" name="Expression name">Bowed (mallets)</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hand</property>
+    <property key="exor" name="Expression level">230</property>
+    <property key="excf" name="Expression conflict">sticks</property>
+    <property key="sttc" name="Start technique">hand</property>
+    <property key="entc" name="End techniques">brsh stck bowd hand hmal smal cmal</property>
+    <property key="uicm" name="UI command">xhnd</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">hands</property>
+    <property key="exnm" name="Expression name">With hands (perc.)</property>
+    <property key="exxr" name="Expression xrefsym">333</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hmal</property>
+    <property key="exor" name="Expression level">230</property>
+    <property key="excf" name="Expression conflict">sticks</property>
+    <property key="sttc" name="Start technique">hmal</property>
+    <property key="entc" name="End techniques">brsh stck bowd hand hmal smal cmal</property>
+    <property key="uicm" name="UI command">xhml</property>
+    <property key="exct" name="Expression categories">Mallets</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">hard mallets</property>
+    <property key="exnm" name="Expression name">Hard mallets</property>
+    <property key="exim" name="Expression imports">hard mallets;with hard mallets</property>
+    <property key="exsh" name="Expression shortcuts">hardmallet</property>
+    <property key="exxr" name="Expression xrefsym">218</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">smal</property>
+    <property key="exor" name="Expression level">230</property>
+    <property key="excf" name="Expression conflict">sticks</property>
+    <property key="sttc" name="Start technique">smal</property>
+    <property key="entc" name="End techniques">brsh stck bowd hand hmal smal cmal</property>
+    <property key="uicm" name="UI command">xsml</property>
+    <property key="exct" name="Expression categories">Mallets</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">soft mallets</property>
+    <property key="exnm" name="Expression name">Soft mallets</property>
+    <property key="exim" name="Expression imports">soft mallets;with soft mallets</property>
+    <property key="exsh" name="Expression shortcuts">softmallet</property>
+    <property key="exxr" name="Expression xrefsym">280</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cmal</property>
+    <property key="exor" name="Expression level">230</property>
+    <property key="excf" name="Expression conflict">sticks</property>
+    <property key="sttc" name="Start technique">cmal</property>
+    <property key="entc" name="End techniques">brsh stck bowd hand hmal smal cmal</property>
+    <property key="uicm" name="UI command">xcml</property>
+    <property key="exct" name="Expression categories">Mallets</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">chorale mallets</property>
+    <property key="exnm" name="Expression name">Chorale mallets</property>
+    <property key="exim" name="Expression imports">chorale mallets;with chorale mallets</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">snon</property>
+    <property key="exor" name="Expression level">240</property>
+    <property key="excf" name="Expression conflict">snares</property>
+    <property key="entc" name="End techniques">snof</property>
+    <property key="uicm" name="UI command">xsof</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">snares on</property>
+    <property key="exnm" name="Expression name">Snares on</property>
+    <property key="exxr" name="Expression xrefsym">275</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">snof</property>
+    <property key="exor" name="Expression level">240</property>
+    <property key="excf" name="Expression conflict">snares</property>
+    <property key="sttc" name="Start technique">snof</property>
+    <property key="uicm" name="UI command">xson</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">snares off</property>
+    <property key="exnm" name="Expression name">Snares off</property>
+    <property key="exxr" name="Expression xrefsym">274</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">hbat</property>
+    <property key="exor" name="Expression level">241</property>
+    <property key="excf" name="Expression conflict">beater</property>
+    <property key="sttc" name="Start technique">hbat</property>
+    <property key="uicm" name="UI command">xhbt</property>
+    <property key="exct" name="Expression categories">Drum set</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">hard beater</property>
+    <property key="exnm" name="Expression name">Hard beater (drum set)</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">sbat</property>
+    <property key="exor" name="Expression level">241</property>
+    <property key="excf" name="Expression conflict">beater</property>
+    <property key="entc" name="End techniques">hbat</property>
+    <property key="uicm" name="UI command">xsbt</property>
+    <property key="exct" name="Expression categories">Drum set</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">soft beater</property>
+    <property key="exnm" name="Expression name">Soft beater (drum set)</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">stir</property>
+    <property key="exor" name="Expression level">242</property>
+    <property key="excf" name="Expression conflict">stir</property>
+    <property key="sttc" name="Start technique">stir</property>
+    <property key="uicm" name="UI command">xstr</property>
+    <property key="exct" name="Expression categories">Drum set</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">stir</property>
+    <property key="exnm" name="Expression name">Stir (snare)</property>
+    <property key="exxr" name="Expression xrefsym">311</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">nstr</property>
+    <property key="exor" name="Expression level">242</property>
+    <property key="excf" name="Expression conflict">stir</property>
+    <property key="entc" name="End techniques">stir</property>
+    <property key="uicm" name="UI command">xssr</property>
+    <property key="exct" name="Expression categories">Drum set</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">stop stir</property>
+    <property key="exnm" name="Expression name">Stop stir (snare)</property>
+    <property key="exxr" name="Expression xrefsym">312</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">tips</property>
+    <property key="exor" name="Expression level">250</property>
+    <property key="excf" name="Expression conflict">tips</property>
+    <property key="nttc" name="Note technique">tips</property>
+    <property key="uicm" name="UI command">xtip</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">fingertips</property>
+    <property key="exnm" name="Expression name">With fingertips (perc.)</property>
+    <property key="exxr" name="Expression xrefsym">257</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">nail</property>
+    <property key="exor" name="Expression level">250</property>
+    <property key="excf" name="Expression conflict">tips</property>
+    <property key="nttc" name="Note technique">nail</property>
+    <property key="uicm" name="UI command">xnal</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">fingernails</property>
+    <property key="exnm" name="Expression name">With fingernails (perc.)</property>
+    <property key="exxr" name="Expression xrefsym">256</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">thmb</property>
+    <property key="exor" name="Expression level">250</property>
+    <property key="excf" name="Expression conflict">tips</property>
+    <property key="nttc" name="Note technique">thmb</property>
+    <property key="uicm" name="UI command">xhmb</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">thumb</property>
+    <property key="exnm" name="Expression name">With thumb (perc.)</property>
+    <property key="exxr" name="Expression xrefsym">282</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">skpm</property>
+    <property key="exor" name="Expression level">250</property>
+    <property key="excf" name="Expression conflict">tips</property>
+    <property key="nttc" name="Note technique">skpm</property>
+    <property key="uicm" name="UI command">xpal</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">palm</property>
+    <property key="exnm" name="Expression name">With palm (perc.)</property>
+    <property key="exxr" name="Expression xrefsym">276</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">damp</property>
+    <property key="exor" name="Expression level">251</property>
+    <property key="excf" name="Expression conflict">damp</property>
+    <property key="nttc" name="Note technique">damp</property>
+    <property key="uicm" name="UI command">xdmp</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">damped</property>
+    <property key="exnm" name="Expression name">Damped (perc.)</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">chok</property>
+    <property key="exor" name="Expression level">252</property>
+    <property key="excf" name="Expression conflict">chok</property>
+    <property key="nttc" name="Note technique">chok</property>
+    <property key="uicm" name="UI command">xchk</property>
+    <property key="exct" name="Expression categories">Drum set</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">choke</property>
+    <property key="exnm" name="Expression name">Choke (perc.)</property>
+    <property key="exxr" name="Expression xrefsym">267</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">dome</property>
+    <property key="exor" name="Expression level">253</property>
+    <property key="excf" name="Expression conflict">dome</property>
+    <property key="nttc" name="Note technique">dome</property>
+    <property key="uicm" name="UI command">xdom</property>
+    <property key="exct" name="Expression categories">Drum set</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">dome</property>
+    <property key="exnm" name="Expression name">Dome (perc.)</property>
+    <property key="exxr" name="Expression xrefsym">337</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">swep</property>
+    <property key="exor" name="Expression level">254</property>
+    <property key="excf" name="Expression conflict">sweep</property>
+    <property key="nttc" name="Note technique">swep</property>
+    <property key="uicm" name="UI command">xswp</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">sweep</property>
+    <property key="exnm" name="Expression name">Sweep (perc.)</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">scra</property>
+    <property key="exor" name="Expression level">255</property>
+    <property key="excf" name="Expression conflict">scrape</property>
+    <property key="nttc" name="Note technique">scra</property>
+    <property key="uicm" name="UI command">xscr</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">scrape</property>
+    <property key="exnm" name="Expression name">Scrape (perc.)</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">flam</property>
+    <property key="exor" name="Expression level">260</property>
+    <property key="excf" name="Expression conflict">flam</property>
+    <property key="nttc" name="Note technique">flam</property>
+    <property key="uicm" name="UI command">xflm</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">flam</property>
+    <property key="exnm" name="Expression name">Flam</property>
+    <property key="exxr" name="Expression xrefsym">264</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">drag</property>
+    <property key="exor" name="Expression level">260</property>
+    <property key="excf" name="Expression conflict">flam</property>
+    <property key="nttc" name="Note technique">drag</property>
+    <property key="uicm" name="UI command">xdrg</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">drag</property>
+    <property key="exnm" name="Expression name">Drag</property>
+    <property key="exxr" name="Expression xrefsym">265</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ruff</property>
+    <property key="exor" name="Expression level">260</property>
+    <property key="excf" name="Expression conflict">flam</property>
+    <property key="nttc" name="Note technique">ruff</property>
+    <property key="uicm" name="UI command">xrff</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">ruff</property>
+    <property key="exnm" name="Expression name">Ruff</property>
+    <property key="exxr" name="Expression xrefsym">266</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">rmsh</property>
+    <property key="exor" name="Expression level">260</property>
+    <property key="excf" name="Expression conflict">flam</property>
+    <property key="nttc" name="Note technique">rmsh</property>
+    <property key="uicm" name="UI command">xrms</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">rimshot</property>
+    <property key="exnm" name="Expression name">Rimshot</property>
+    <property key="exxr" name="Expression xrefsym">272</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">stks</property>
+    <property key="exor" name="Expression level">260</property>
+    <property key="excf" name="Expression conflict">flam</property>
+    <property key="nttc" name="Note technique">stks</property>
+    <property key="uicm" name="UI command">xtks</property>
+    <property key="exct" name="Expression categories">Percussion</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">stick-shot</property>
+    <property key="exnm" name="Expression name">Stick-shot</property>
+    <property key="exxr" name="Expression xrefsym">273</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">side</property>
+    <property key="exor" name="Expression level">260</property>
+    <property key="excf" name="Expression conflict">flam</property>
+    <property key="nttc" name="Note technique">side</property>
+    <property key="uicm" name="UI command">xsid</property>
+    <property key="exct" name="Expression categories">Drum set</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">side-stick</property>
+    <property key="exnm" name="Expression name">Side-stick</property>
+    <property key="exxr" name="Expression xrefsym">340</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cros</property>
+    <property key="exor" name="Expression level">260</property>
+    <property key="excf" name="Expression conflict">flam</property>
+    <property key="nttc" name="Note technique">cros</property>
+    <property key="uicm" name="UI command">xcrs</property>
+    <property key="exct" name="Expression categories">Drum set</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">cross-stick</property>
+    <property key="exnm" name="Expression name">Cross-stick</property>
+    <property key="exxr" name="Expression xrefsym">303</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">norm</property>
+    <property key="exor" name="Expression level">300</property>
+    <property key="excf" name="Expression conflict">normale</property>
+    <property key="uicm" name="UI command">xnor</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">normale</property>
+    <property key="exnm" name="Expression name">Normale</property>
+    <property key="exxr" name="Expression xrefsym">200</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">atta</property>
+    <property key="exor" name="Expression level">301</property>
+    <property key="excf" name="Expression conflict">attacca</property>
+    <property key="uicm" name="UI command">xatt</property>
+    <property key="exct" name="Expression categories">Common</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">attacca</property>
+    <property key="exnm" name="Expression name">Attacca</property>
+    <property key="exmt" name="Metapart entry">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">rnot</property>
+    <property key="exor" name="Expression level">310</property>
+    <property key="excf" name="Expression conflict">rn</property>
+    <property key="uicm" name="UI command">cnrn</property>
+    <property key="syid" name="Style ID">trig</property>
+    <property key="extx" name="Expression text">RN</property>
+    <property key="exsh" name="Expression shortcuts">rn</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">scap</property>
+    <property key="exor" name="Expression level">310</property>
+    <property key="excf" name="Expression conflict">rn</property>
+    <property key="uicm" name="UI command">cncp</property>
+    <property key="syid" name="Style ID">trig</property>
+    <property key="extx" name="Expression text">CAP</property>
+    <property key="exsh" name="Expression shortcuts">cap</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">rcap</property>
+    <property key="exor" name="Expression level">310</property>
+    <property key="excf" name="Expression conflict">rn</property>
+    <property key="uicm" name="UI command">cnrc</property>
+    <property key="syid" name="Style ID">trig</property>
+    <property key="extx" name="Expression text">RC</property>
+    <property key="exsh" name="Expression shortcuts">rc</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">auvm</property>
+    <property key="exor" name="Expression level">311</property>
+    <property key="excf" name="Expression conflict">auto-vamp</property>
+    <property key="syid" name="Style ID">trig</property>
+    <property key="extx" name="Expression text">auto-vamp</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">solo</property>
+    <property key="exor" name="Expression level">320</property>
+    <property key="excf" name="Expression conflict">solo</property>
+    <property key="sttc" name="Start technique">solo</property>
+    <property key="entc" name="End techniques">solo tutt a2vc a3vc</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">solo</property>
+    <property key="exnm" name="Expression name">Solo</property>
+    <property key="exxr" name="Expression xrefsym">263</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">tutt</property>
+    <property key="exor" name="Expression level">320</property>
+    <property key="excf" name="Expression conflict">solo</property>
+    <property key="sttc" name="Start technique">tutt</property>
+    <property key="entc" name="End techniques">solo tutt a2vc a3vc</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">tutti</property>
+    <property key="exnm" name="Expression name">Tutti</property>
+    <property key="exxr" name="Expression xrefsym">135</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">a2vc</property>
+    <property key="exor" name="Expression level">320</property>
+    <property key="excf" name="Expression conflict">solo</property>
+    <property key="sttc" name="Start technique">a2vc</property>
+    <property key="entc" name="End techniques">solo tutt a2vc a3vc</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">a2</property>
+    <property key="exnm" name="Expression name">a2</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">a3vc</property>
+    <property key="exor" name="Expression level">320</property>
+    <property key="excf" name="Expression conflict">solo</property>
+    <property key="sttc" name="Start technique">a3vc</property>
+    <property key="entc" name="End techniques">solo tutt a2vc a3vc</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">a3</property>
+    <property key="exnm" name="Expression name">a3</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">tact</property>
+    <property key="exor" name="Expression level">321</property>
+    <property key="excf" name="Expression conflict">tacet</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">tacet</property>
+    <property key="exxr" name="Expression xrefsym">262</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fasv</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">fasv</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">fast var.</property>
+    <property key="exnm" name="Expression name">Fast var.</property>
+    <property key="exsh" name="Expression shortcuts">fastvar</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">medv</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">medv</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">med. var.</property>
+    <property key="exnm" name="Expression name">Medium var.</property>
+    <property key="exsh" name="Expression shortcuts">mediv</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">slov</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">slov</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">slow var.</property>
+    <property key="exnm" name="Expression name">Slow var.</property>
+    <property key="exsh" name="Expression shortcuts">slowvar</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">dimi</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">dimi</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">dim.</property>
+    <property key="exnm" name="Expression name">diminuendo</property>
+    <property key="exsh" name="Expression shortcuts">dimi</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cres</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">cres</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">cres.</property>
+    <property key="exnm" name="Expression name">Crescendo</property>
+    <property key="exsh" name="Expression shortcuts">cres</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">slid</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">slid</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">slide</property>
+    <property key="exsh" name="Expression shortcuts">slide</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">5thu</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">5thu</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">5th up</property>
+    <property key="exsh" name="Expression shortcuts">5thu</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">5thd</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">5thd</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">5th down</property>
+    <property key="exsh" name="Expression shortcuts">5thd</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">4thu</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">4thu</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">4th up</property>
+    <property key="exsh" name="Expression shortcuts">4thup</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">4thd</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">4thd</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">4th down</property>
+    <property key="exsh" name="Expression shortcuts">4thd</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">8vup</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">8vup</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">8va run up</property>
+    <property key="exsh" name="Expression shortcuts">8varunup</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">8vdn</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">8vdn</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">8va run down</property>
+    <property key="exsh" name="Expression shortcuts">8varundown</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">8vud</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">8vud</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">8va run up/down</property>
+    <property key="exsh" name="Expression shortcuts">8varunupdown</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">rip3</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">rip3</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">rip 3rd</property>
+    <property key="exsh" name="Expression shortcuts">ripup3</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">rip5</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="nttc" name="Note technique">rip5</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">rip 5th</property>
+    <property key="exsh" name="Expression shortcuts">ripup5</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">clus</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">clus</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">clusters</property>
+    <property key="exnm" name="Expression name">Clusters</property>
+    <property key="exsh" name="Expression shortcuts">clus</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">scrt</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">scrt</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">scratches</property>
+    <property key="exsh" name="Expression shortcuts">scratch</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">pend</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">pend</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">penderecki</property>
+    <property key="exnm" name="Expression name">Penderecki</property>
+    <property key="exsh" name="Expression shortcuts">pend</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">runs</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">runs</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">runs</property>
+    <property key="exsh" name="Expression shortcuts">runs</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">rrob</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">rrob</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">round-robin</property>
+    <property key="exnm" name="Expression name">Round-robin</property>
+    <property key="exsh" name="Expression shortcuts">roundrobin</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fasa</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">fasa</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">fast attack</property>
+    <property key="exnm" name="Expression name">Fast attack</property>
+    <property key="exsh" name="Expression shortcuts">fastattack</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">meda</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">meda</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">medium attack</property>
+    <property key="exnm" name="Expression name">Medium attack</property>
+    <property key="exsh" name="Expression shortcuts">meda</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">sloa</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">sloa</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">slow attack</property>
+    <property key="exnm" name="Expression name">Slow attack</property>
+    <property key="exsh" name="Expression shortcuts">slowattack</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">qleg</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">qleg</property>
+    <property key="uicm" name="UI command">xqle</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">Qleg</property>
+    <property key="exsh" name="Expression shortcuts">qleg</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">lyri</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">lyri</property>
+    <property key="uicm" name="UI command">xlyr</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">lyrical</property>
+    <property key="exnm" name="Expression name">Lyrical</property>
+    <property key="exsh" name="Expression shortcuts">lyri</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">oohs</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="excf" name="Expression conflict">vowel</property>
+    <property key="sttc" name="Start technique">oohs</property>
+    <property key="entc" name="End techniques">aahs</property>
+    <property key="uicm" name="UI command">xohs</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">oohs</property>
+    <property key="exnm" name="Expression name">Oohs</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">aahs</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="excf" name="Expression conflict">vowel</property>
+    <property key="sttc" name="Start technique">aahs</property>
+    <property key="entc" name="End techniques">oohs</property>
+    <property key="uicm" name="UI command">xahs</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">aahs</property>
+    <property key="exnm" name="Expression name">Aahs</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">org1</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="excf" name="Expression conflict">organstop</property>
+    <property key="sttc" name="Start technique">org1</property>
+    <property key="entc" name="End techniques">org2 org3 org4 org5 chim</property>
+    <property key="uicm" name="UI command">xos1</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">Stop I</property>
+    <property key="exnm" name="Expression name">Stop I</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">org2</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="excf" name="Expression conflict">organstop</property>
+    <property key="sttc" name="Start technique">org2</property>
+    <property key="entc" name="End techniques">org1 org3 org4 org5 chim</property>
+    <property key="uicm" name="UI command">xos2</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">Stop II</property>
+    <property key="exnm" name="Expression name">Stop II</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">org3</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="excf" name="Expression conflict">organstop</property>
+    <property key="entc" name="End techniques">org1 org2 org3 org4 org5 chim</property>
+    <property key="uicm" name="UI command">xos3</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">Stop III</property>
+    <property key="exnm" name="Expression name">Stop III</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">org4</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="excf" name="Expression conflict">organstop</property>
+    <property key="sttc" name="Start technique">org4</property>
+    <property key="entc" name="End techniques">org1 org2 org3 org5 chim</property>
+    <property key="uicm" name="UI command">xos4</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">Stop IV</property>
+    <property key="exnm" name="Expression name">Stop IV</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">org5</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="excf" name="Expression conflict">organstop</property>
+    <property key="sttc" name="Start technique">org5</property>
+    <property key="entc" name="End techniques">org1 org2 org3 org4 chim</property>
+    <property key="uicm" name="UI command">xos5</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">Stop V</property>
+    <property key="exnm" name="Expression name">Stop V</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">chim</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="excf" name="Expression conflict">organstop</property>
+    <property key="sttc" name="Start technique">chim</property>
+    <property key="entc" name="End techniques">org1 org2 org3 org4 org5</property>
+    <property key="uicm" name="UI command">xchm</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">Chime stop</property>
+    <property key="exnm" name="Expression name">Chime stop</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">varA</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">varA</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">var. A</property>
+    <property key="exnm" name="Expression name">Var. A</property>
+    <property key="exsh" name="Expression shortcuts">A</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">varB</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">varB</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">var. B</property>
+    <property key="exnm" name="Expression name">Var. B</property>
+    <property key="exsh" name="Expression shortcuts">B</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">qkud</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">qkud</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">quick up/down </property>
+    <property key="exsh" name="Expression shortcuts">quickupdown</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">soft</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">soft</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">soft</property>
+    <property key="exsh" name="Expression shortcuts">soft</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">dbbo</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">dbbo</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">double bow</property>
+    <property key="exsh" name="Expression shortcuts">doublebow</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">grac</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">grac</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">grace</property>
+    <property key="exsh" name="Expression shortcuts">grace</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">psyc</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">psyc</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">psycho</property>
+    <property key="exsh" name="Expression shortcuts">psyc</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">effx</property>
+    <property key="exor" name="Expression level">350</property>
+    <property key="sttc" name="Start technique">effx</property>
+    <property key="syid" name="Style ID">expr</property>
+    <property key="extx" name="Expression text">FX</property>
+    <property key="exsh" name="Expression shortcuts">fx</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fpno</property>
+    <property key="exor" name="Expression level">400</property>
+    <property key="excf" name="Expression conflict">fp</property>
+    <property key="nttc" name="Note technique">fpno</property>
+    <property key="uicm" name="UI command">cafp</property>
+    <property key="gyid" name="Glyph ID">fp</property>
+    <property key="exnm" name="Expression name">fp</property>
+    <property key="exsh" name="Expression shortcuts">fp</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ffpn</property>
+    <property key="exor" name="Expression level">400</property>
+    <property key="excf" name="Expression conflict">fp</property>
+    <property key="nttc" name="Note technique">ffpn</property>
+    <property key="uicm" name="UI command">cffp</property>
+    <property key="gyid" name="Glyph ID">ffp</property>
+    <property key="exnm" name="Expression name">ffp</property>
+    <property key="exsh" name="Expression shortcuts">ffp</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">fzdo</property>
+    <property key="exor" name="Expression level">400</property>
+    <property key="excf" name="Expression conflict">fp</property>
+    <property key="nttc" name="Note technique">fzdo</property>
+    <property key="uicm" name="UI command">cafz</property>
+    <property key="exct" name="Expression categories">Accents</property>
+    <property key="gyid" name="Glyph ID">fz</property>
+    <property key="exnm" name="Expression name">fz</property>
+    <property key="exsh" name="Expression shortcuts">fz</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">ffzo</property>
+    <property key="exor" name="Expression level">400</property>
+    <property key="excf" name="Expression conflict">fp</property>
+    <property key="nttc" name="Note technique">ffzo</property>
+    <property key="uicm" name="UI command">cffz</property>
+    <property key="exct" name="Expression categories">Accents</property>
+    <property key="gyid" name="Glyph ID">ffz</property>
+    <property key="exnm" name="Expression name">ffz</property>
+    <property key="exsh" name="Expression shortcuts">ffz</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">sfdo</property>
+    <property key="exor" name="Expression level">400</property>
+    <property key="excf" name="Expression conflict">fp</property>
+    <property key="nttc" name="Note technique">sfdo</property>
+    <property key="uicm" name="UI command">casf</property>
+    <property key="exct" name="Expression categories">Accents</property>
+    <property key="gyid" name="Glyph ID">sf</property>
+    <property key="exnm" name="Expression name">sf</property>
+    <property key="exsh" name="Expression shortcuts">sf</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">sffo</property>
+    <property key="exor" name="Expression level">400</property>
+    <property key="excf" name="Expression conflict">fp</property>
+    <property key="nttc" name="Note technique">sffo</property>
+    <property key="uicm" name="UI command">csff</property>
+    <property key="exct" name="Expression categories">Accents</property>
+    <property key="gyid" name="Glyph ID">sff</property>
+    <property key="exnm" name="Expression name">sff</property>
+    <property key="exsh" name="Expression shortcuts">sff</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">sfzo</property>
+    <property key="exor" name="Expression level">400</property>
+    <property key="excf" name="Expression conflict">fp</property>
+    <property key="nttc" name="Note technique">sfzo</property>
+    <property key="uicm" name="UI command">csfz</property>
+    <property key="exct" name="Expression categories">Accents</property>
+    <property key="gyid" name="Glyph ID">sfz</property>
+    <property key="exnm" name="Expression name">sfz</property>
+    <property key="exsh" name="Expression shortcuts">sfz</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">sffz</property>
+    <property key="exor" name="Expression level">400</property>
+    <property key="excf" name="Expression conflict">fp</property>
+    <property key="nttc" name="Note technique">sffz</property>
+    <property key="uicm" name="UI command">csFz</property>
+    <property key="exct" name="Expression categories">Accents</property>
+    <property key="gyid" name="Glyph ID">sffz</property>
+    <property key="exnm" name="Expression name">sffz</property>
+    <property key="exsh" name="Expression shortcuts">sffz</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">sfpo</property>
+    <property key="exor" name="Expression level">400</property>
+    <property key="excf" name="Expression conflict">fp</property>
+    <property key="nttc" name="Note technique">sfpo</property>
+    <property key="uicm" name="UI command">csfp</property>
+    <property key="gyid" name="Glyph ID">sfp</property>
+    <property key="exnm" name="Expression name">sfp</property>
+    <property key="exsh" name="Expression shortcuts">sfp</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">sffp</property>
+    <property key="exor" name="Expression level">400</property>
+    <property key="excf" name="Expression conflict">fp</property>
+    <property key="nttc" name="Note technique">sffp</property>
+    <property key="uicm" name="UI command">csFp</property>
+    <property key="gyid" name="Glyph ID">sffp</property>
+    <property key="exnm" name="Expression name">sffp</property>
+    <property key="exsh" name="Expression shortcuts">sffp</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x001</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x001</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X1</property>
+    <property key="exnm" name="Expression name">X01</property>
+    <property key="exsh" name="Expression shortcuts">x1;x01</property>
+    <property key="extp" name="Expression compat">x01</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x002</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x002</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X2</property>
+    <property key="exnm" name="Expression name">X02</property>
+    <property key="exsh" name="Expression shortcuts">x2;x02</property>
+    <property key="extp" name="Expression compat">x02</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x003</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x003</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X3</property>
+    <property key="exnm" name="Expression name">X03</property>
+    <property key="exsh" name="Expression shortcuts">x3;x03</property>
+    <property key="extp" name="Expression compat">x03</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x004</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x004</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X4</property>
+    <property key="exnm" name="Expression name">X04</property>
+    <property key="exsh" name="Expression shortcuts">x4;x04</property>
+    <property key="extp" name="Expression compat">x04</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x005</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x005</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X5</property>
+    <property key="exnm" name="Expression name">X05</property>
+    <property key="exsh" name="Expression shortcuts">x5;x05</property>
+    <property key="extp" name="Expression compat">x05</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x006</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x006</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X6</property>
+    <property key="exnm" name="Expression name">X06</property>
+    <property key="exsh" name="Expression shortcuts">x6;x06</property>
+    <property key="extp" name="Expression compat">x06</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x007</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x007</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X7</property>
+    <property key="exnm" name="Expression name">X07</property>
+    <property key="exsh" name="Expression shortcuts">x7;x07</property>
+    <property key="extp" name="Expression compat">x07</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x008</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x008</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X8</property>
+    <property key="exnm" name="Expression name">X08</property>
+    <property key="exsh" name="Expression shortcuts">x8;x08</property>
+    <property key="extp" name="Expression compat">x08</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x009</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x009</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X9</property>
+    <property key="exnm" name="Expression name">X09</property>
+    <property key="exsh" name="Expression shortcuts">x9;x09</property>
+    <property key="extp" name="Expression compat">x09</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x010</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x010</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X10</property>
+    <property key="exnm" name="Expression name">X10</property>
+    <property key="exsh" name="Expression shortcuts">x10</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x011</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x011</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X11</property>
+    <property key="exnm" name="Expression name">X11</property>
+    <property key="exsh" name="Expression shortcuts">x11</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x012</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x012</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X12</property>
+    <property key="exnm" name="Expression name">X12</property>
+    <property key="exsh" name="Expression shortcuts">x12</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x013</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x013</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X13</property>
+    <property key="exnm" name="Expression name">X13</property>
+    <property key="exsh" name="Expression shortcuts">x13</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x014</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x014</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X14</property>
+    <property key="exnm" name="Expression name">X14</property>
+    <property key="exsh" name="Expression shortcuts">x14</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x015</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x015</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X15</property>
+    <property key="exnm" name="Expression name">X15</property>
+    <property key="exsh" name="Expression shortcuts">x15</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x016</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x016</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X16</property>
+    <property key="exnm" name="Expression name">X16</property>
+    <property key="exsh" name="Expression shortcuts">x16</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x017</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x017</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X17</property>
+    <property key="exnm" name="Expression name">X17</property>
+    <property key="exsh" name="Expression shortcuts">x17</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x018</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x018</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X18</property>
+    <property key="exnm" name="Expression name">X18</property>
+    <property key="exsh" name="Expression shortcuts">x18</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x019</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x019</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X19</property>
+    <property key="exnm" name="Expression name">X19</property>
+    <property key="exsh" name="Expression shortcuts">x19</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">x020</property>
+    <property key="exor" name="Expression level">410</property>
+    <property key="nttc" name="Note technique">x020</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">X20</property>
+    <property key="exnm" name="Expression name">X20</property>
+    <property key="exsh" name="Expression shortcuts">x20</property>
+    <property key="mwvc" name="Moves with voice">True</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cs01</property>
+    <property key="exor" name="Expression level">420</property>
+    <property key="excf" name="Expression conflict">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09
+      cs10</property>
+    <property key="sttc" name="Start technique">cs01</property>
+    <property key="entc" name="End techniques">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09 cs10</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">custom sounds 1</property>
+    <property key="exbh" name="Expression both sides">False</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cs02</property>
+    <property key="exor" name="Expression level">420</property>
+    <property key="excf" name="Expression conflict">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09
+      cs10</property>
+    <property key="sttc" name="Start technique">cs02</property>
+    <property key="entc" name="End techniques">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09 cs10</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">custom sounds 2</property>
+    <property key="exbh" name="Expression both sides">False</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cs03</property>
+    <property key="exor" name="Expression level">420</property>
+    <property key="excf" name="Expression conflict">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09
+      cs10</property>
+    <property key="sttc" name="Start technique">cs03</property>
+    <property key="entc" name="End techniques">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09 cs10</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">custom sounds 3</property>
+    <property key="exbh" name="Expression both sides">False</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cs04</property>
+    <property key="exor" name="Expression level">420</property>
+    <property key="excf" name="Expression conflict">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09
+      cs10</property>
+    <property key="sttc" name="Start technique">cs04</property>
+    <property key="entc" name="End techniques">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09 cs10</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">custom sounds 4</property>
+    <property key="exbh" name="Expression both sides">False</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cs05</property>
+    <property key="exor" name="Expression level">420</property>
+    <property key="excf" name="Expression conflict">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09
+      cs10</property>
+    <property key="sttc" name="Start technique">cs05</property>
+    <property key="entc" name="End techniques">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09 cs10</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">custom sounds 5</property>
+    <property key="exbh" name="Expression both sides">False</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cs06</property>
+    <property key="exor" name="Expression level">420</property>
+    <property key="excf" name="Expression conflict">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09
+      cs10</property>
+    <property key="sttc" name="Start technique">cs06</property>
+    <property key="entc" name="End techniques">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09 cs10</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">custom sounds 6</property>
+    <property key="exbh" name="Expression both sides">False</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cs07</property>
+    <property key="exor" name="Expression level">420</property>
+    <property key="excf" name="Expression conflict">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09
+      cs10</property>
+    <property key="sttc" name="Start technique">cs07</property>
+    <property key="entc" name="End techniques">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09 cs10</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">custom sounds 7</property>
+    <property key="exbh" name="Expression both sides">False</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cs08</property>
+    <property key="exor" name="Expression level">420</property>
+    <property key="excf" name="Expression conflict">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09
+      cs10</property>
+    <property key="sttc" name="Start technique">cs08</property>
+    <property key="entc" name="End techniques">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09 cs10</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">custom sounds 8</property>
+    <property key="exbh" name="Expression both sides">False</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cs09</property>
+    <property key="exor" name="Expression level">420</property>
+    <property key="excf" name="Expression conflict">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09
+      cs10</property>
+    <property key="sttc" name="Start technique">cs09</property>
+    <property key="entc" name="End techniques">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09 cs10</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">custom sounds 9</property>
+    <property key="exbh" name="Expression both sides">False</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+  <packet type="EXPD" name="Expression define">
+    <property key="exid" name="Expression ident">cs10</property>
+    <property key="exor" name="Expression level">420</property>
+    <property key="excf" name="Expression conflict">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09
+      cs10</property>
+    <property key="sttc" name="Start technique">cs10</property>
+    <property key="entc" name="End techniques">cs01 cs02 cs03 cs04 cs05 cs06 cs07 cs08 cs09 cs10</property>
+    <property key="syid" name="Style ID">gteq</property>
+    <property key="extx" name="Expression text">custom sounds 10</property>
+    <property key="exbh" name="Expression both sides">False</property>
+    <property key="atps" name="Staff side">abov</property>
+  </packet>
+</expressions>

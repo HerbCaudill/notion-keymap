@@ -1,0 +1,2449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instruments>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">200</property>
+    <property key="ingr" name="Setup group">Strings</property>
+    <property key="inds" name="Setup denote">Violin I (section)</property>
+    <property key="innm" name="Track name">Violin I</property>
+    <property key="inab" name="Track abbr">Vln. I</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">200</property>
+    <property key="chgp" name="Barline group">200</property>
+    <property key="mxgr" name="Mixer group">Strings</property>
+    <property key="ocod" name="Orchestral order">5100</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="inxm" name="Export name">Violin I</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">0</property>
+    <property key="uiid" name="Upgrade IID">2200</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">201</property>
+    <property key="ingr" name="Setup group">Strings</property>
+    <property key="inds" name="Setup denote">Violin II (section)</property>
+    <property key="innm" name="Track name">Violin II</property>
+    <property key="inab" name="Track abbr">Vln. II</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">200</property>
+    <property key="chgp" name="Barline group">200</property>
+    <property key="mxgr" name="Mixer group">Strings</property>
+    <property key="ocod" name="Orchestral order">5101</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="inxm" name="Export name">Violin II</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">0</property>
+    <property key="uiid" name="Upgrade IID">2201</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">202</property>
+    <property key="ingr" name="Setup group">Strings</property>
+    <property key="inds" name="Setup denote">Viola (section)</property>
+    <property key="innm" name="Track name">Viola</property>
+    <property key="inab" name="Track abbr">Vla.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">200</property>
+    <property key="chgp" name="Barline group">200</property>
+    <property key="mxgr" name="Mixer group">Strings</property>
+    <property key="ocod" name="Orchestral order">5110</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">al</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="inxm" name="Export name">Viola</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">1</property>
+    <property key="uiid" name="Upgrade IID">2202</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">203</property>
+    <property key="ingr" name="Setup group">Strings</property>
+    <property key="inds" name="Setup denote">Cello (section)</property>
+    <property key="innm" name="Track name">Cello</property>
+    <property key="inab" name="Track abbr">Cell.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">200</property>
+    <property key="chgp" name="Barline group">200</property>
+    <property key="mxgr" name="Mixer group">Strings</property>
+    <property key="ocod" name="Orchestral order">5120</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="inxm" name="Export name">Violoncello</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">2</property>
+    <property key="uiid" name="Upgrade IID">2203</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">204</property>
+    <property key="ingr" name="Setup group">Strings</property>
+    <property key="inds" name="Setup denote">Double-bass (section)</property>
+    <property key="innm" name="Track name">Bass</property>
+    <property key="inab" name="Track abbr">Bass</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">200</property>
+    <property key="chgp" name="Barline group">200</property>
+    <property key="mxgr" name="Mixer group">Strings</property>
+    <property key="ocod" name="Orchestral order">5130</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="inxm" name="Export name">Double Bass</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">3</property>
+    <property key="uiid" name="Upgrade IID">2204</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">210</property>
+    <property key="ingr" name="Setup group">Strings</property>
+    <property key="inds" name="Setup denote">Violin (solo)</property>
+    <property key="innm" name="Track name">Violin</property>
+    <property key="inab" name="Track abbr">Vln.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">200</property>
+    <property key="chgp" name="Barline group">200</property>
+    <property key="mxgr" name="Mixer group">Strings</property>
+    <property key="ocod" name="Orchestral order">5000</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="inxm" name="Export name">Violin</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">4</property>
+    <property key="uiid" name="Upgrade IID">2210</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">211</property>
+    <property key="ingr" name="Setup group">Strings</property>
+    <property key="inds" name="Setup denote">Viola (solo)</property>
+    <property key="innm" name="Track name">Viola</property>
+    <property key="inab" name="Track abbr">Vla.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">200</property>
+    <property key="chgp" name="Barline group">200</property>
+    <property key="mxgr" name="Mixer group">Strings</property>
+    <property key="ocod" name="Orchestral order">5010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">al</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="inxm" name="Export name">Viola</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">5</property>
+    <property key="uiid" name="Upgrade IID">2211</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">212</property>
+    <property key="ingr" name="Setup group">Strings</property>
+    <property key="inds" name="Setup denote">Cello (solo)</property>
+    <property key="innm" name="Track name">Cello</property>
+    <property key="inab" name="Track abbr">Cell.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">200</property>
+    <property key="chgp" name="Barline group">200</property>
+    <property key="mxgr" name="Mixer group">Strings</property>
+    <property key="ocod" name="Orchestral order">5020</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="inxm" name="Export name">Violoncello</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">6</property>
+    <property key="uiid" name="Upgrade IID">2212</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">213</property>
+    <property key="ingr" name="Setup group">Strings</property>
+    <property key="inds" name="Setup denote">Double-bass (solo)</property>
+    <property key="innm" name="Track name">Bass</property>
+    <property key="inab" name="Track abbr">Bass</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">200</property>
+    <property key="chgp" name="Barline group">200</property>
+    <property key="mxgr" name="Mixer group">Strings</property>
+    <property key="ocod" name="Orchestral order">5030</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="inxm" name="Export name">Double Bass</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">7</property>
+    <property key="uiid" name="Upgrade IID">2213</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">300</property>
+    <property key="ingr" name="Setup group">Woodwinds</property>
+    <property key="inds" name="Setup denote">Piccolo</property>
+    <property key="innm" name="Track name">Piccolo</property>
+    <property key="inab" name="Track abbr">Picc.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">WWinds</property>
+    <property key="ocod" name="Orchestral order">1000</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">up</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">31</property>
+    <property key="uiid" name="Upgrade IID">2300</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">301</property>
+    <property key="ingr" name="Setup group">Woodwinds</property>
+    <property key="inds" name="Setup denote">Flute</property>
+    <property key="innm" name="Track name">Flute</property>
+    <property key="inab" name="Track abbr">Fl.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">WWinds</property>
+    <property key="ocod" name="Orchestral order">1001</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">32</property>
+    <property key="uiid" name="Upgrade IID">2301</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">302</property>
+    <property key="ingr" name="Setup group">Woodwinds</property>
+    <property key="inds" name="Setup denote">Oboe</property>
+    <property key="innm" name="Track name">Oboe</property>
+    <property key="inab" name="Track abbr">Ob.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">WWinds</property>
+    <property key="ocod" name="Orchestral order">1010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">35</property>
+    <property key="uiid" name="Upgrade IID">2302</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">303</property>
+    <property key="ingr" name="Setup group">Woodwinds</property>
+    <property key="inds" name="Setup denote">English Horn</property>
+    <property key="innm" name="Track name">English Horn</property>
+    <property key="inab" name="Track abbr">E.H.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">WWinds</property>
+    <property key="ocod" name="Orchestral order">1011</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">f</property>
+    <property key="sn8v" name="Sounding octave">0</property>
+    <property key="sn8c" name="Sounding c octave">0</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">36</property>
+    <property key="uiid" name="Upgrade IID">2303</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">304</property>
+    <property key="ingr" name="Setup group">Woodwinds</property>
+    <property key="inds" name="Setup denote">Clarinet</property>
+    <property key="innm" name="Track name">Clarinet</property>
+    <property key="inab" name="Track abbr">Cl.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">WWinds</property>
+    <property key="ocod" name="Orchestral order">1021</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">b-</property>
+    <property key="sn8v" name="Sounding octave">0</property>
+    <property key="sn8c" name="Sounding c octave">0</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">38</property>
+    <property key="uiid" name="Upgrade IID">2304</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">305</property>
+    <property key="ingr" name="Setup group">Woodwinds</property>
+    <property key="inds" name="Setup denote">Bass Clarinet</property>
+    <property key="innm" name="Track name">Bass Clarinet</property>
+    <property key="inab" name="Track abbr">Bass Cl.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">WWinds</property>
+    <property key="ocod" name="Orchestral order">1022</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">b-</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">40</property>
+    <property key="uiid" name="Upgrade IID">2305</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">306</property>
+    <property key="ingr" name="Setup group">Woodwinds</property>
+    <property key="inds" name="Setup denote">Bassoon</property>
+    <property key="innm" name="Track name">Bassoon</property>
+    <property key="inab" name="Track abbr">Bsn.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">WWinds</property>
+    <property key="ocod" name="Orchestral order">1030</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">41</property>
+    <property key="uiid" name="Upgrade IID">2306</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">307</property>
+    <property key="ingr" name="Setup group">Woodwinds</property>
+    <property key="inds" name="Setup denote">Piccolo Clarinet</property>
+    <property key="innm" name="Track name">Piccolo Clarinet</property>
+    <property key="inab" name="Track abbr">Picc. Clar.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">WWinds</property>
+    <property key="ocod" name="Orchestral order">1020</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">37</property>
+    <property key="uiid" name="Upgrade IID">2307</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">308</property>
+    <property key="ingr" name="Setup group">Woodwinds</property>
+    <property key="inds" name="Setup denote">Contrabassoon</property>
+    <property key="innm" name="Track name">Contrabassoon</property>
+    <property key="inab" name="Track abbr">Cbn.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">WWinds</property>
+    <property key="ocod" name="Orchestral order">1031</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">42</property>
+    <property key="uiid" name="Upgrade IID">2308</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">309</property>
+    <property key="ingr" name="Setup group">Saxophones</property>
+    <property key="inds" name="Setup denote">Sopranino Saxophone</property>
+    <property key="innm" name="Track name">Sopranino Sax</property>
+    <property key="inab" name="Track abbr">S&apos;nino Sax</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">Saxes</property>
+    <property key="ocod" name="Orchestral order">1100</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">up</property>
+    <property key="sntr" name="Sounding pitch">e-</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">88</property>
+    <property key="uiid" name="Upgrade IID">2350</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">310</property>
+    <property key="ingr" name="Setup group">Saxophones</property>
+    <property key="inds" name="Setup denote">Soprano Saxophone</property>
+    <property key="innm" name="Track name">Soprano Sax</property>
+    <property key="inab" name="Track abbr">S. Sax</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">Saxes</property>
+    <property key="ocod" name="Orchestral order">1101</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">b-</property>
+    <property key="sn8v" name="Sounding octave">0</property>
+    <property key="sn8c" name="Sounding c octave">0</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">43</property>
+    <property key="uiid" name="Upgrade IID">2351</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">311</property>
+    <property key="ingr" name="Setup group">Saxophones</property>
+    <property key="inds" name="Setup denote">Alto Saxophone</property>
+    <property key="innm" name="Track name">Alto Sax</property>
+    <property key="inab" name="Track abbr">A. Sax</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">Saxes</property>
+    <property key="ocod" name="Orchestral order">1102</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">e-</property>
+    <property key="sn8v" name="Sounding octave">0</property>
+    <property key="sn8c" name="Sounding c octave">0</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">44</property>
+    <property key="uiid" name="Upgrade IID">2352</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">312</property>
+    <property key="ingr" name="Setup group">Saxophones</property>
+    <property key="inds" name="Setup denote">Tenor Saxophone</property>
+    <property key="innm" name="Track name">Tenor Sax</property>
+    <property key="inab" name="Track abbr">T. Sax</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">Saxes</property>
+    <property key="ocod" name="Orchestral order">1103</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">b-</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">45</property>
+    <property key="uiid" name="Upgrade IID">2353</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">313</property>
+    <property key="ingr" name="Setup group">Saxophones</property>
+    <property key="inds" name="Setup denote">Bari Saxophone</property>
+    <property key="innm" name="Track name">Bari Sax</property>
+    <property key="inab" name="Track abbr">Bar. Sax</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">Saxes</property>
+    <property key="ocod" name="Orchestral order">1104</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">e-</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">46</property>
+    <property key="uiid" name="Upgrade IID">2354</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">314</property>
+    <property key="ingr" name="Setup group">Saxophones</property>
+    <property key="inds" name="Setup denote">Bass Saxophone</property>
+    <property key="innm" name="Track name">Bass Sax</property>
+    <property key="inab" name="Track abbr">Bs. Sax</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">Saxes</property>
+    <property key="ocod" name="Orchestral order">1105</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">b-</property>
+    <property key="sn8v" name="Sounding octave">2</property>
+    <property key="sn8c" name="Sounding c octave">2</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">47</property>
+    <property key="uiid" name="Upgrade IID">2354</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">315</property>
+    <property key="ingr" name="Setup group">Saxophones</property>
+    <property key="inds" name="Setup denote">Contrabass Saxophone</property>
+    <property key="innm" name="Track name">Contrabass Sax</property>
+    <property key="inab" name="Track abbr">Cb. Sax</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">300</property>
+    <property key="chgp" name="Barline group">300</property>
+    <property key="mxgr" name="Mixer group">Saxes</property>
+    <property key="ocod" name="Orchestral order">1106</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">e-</property>
+    <property key="sn8v" name="Sounding octave">2</property>
+    <property key="sn8c" name="Sounding c octave">2</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">455</property>
+    <property key="uiid" name="Upgrade IID">2356</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">400</property>
+    <property key="ingr" name="Setup group">Brass</property>
+    <property key="inds" name="Setup denote">Horn</property>
+    <property key="innm" name="Track name">Horn</property>
+    <property key="inab" name="Track abbr">Hn.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">400</property>
+    <property key="chgp" name="Barline group">400</property>
+    <property key="mxgr" name="Mixer group">Brass</property>
+    <property key="ocod" name="Orchestral order">2000</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">f</property>
+    <property key="sn8v" name="Sounding octave">0</property>
+    <property key="sn8c" name="Sounding c octave">0</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">100</property>
+    <property key="uiid" name="Upgrade IID">2400</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">401</property>
+    <property key="ingr" name="Setup group">Brass</property>
+    <property key="inds" name="Setup denote">Trumpet</property>
+    <property key="innm" name="Track name">Trumpet</property>
+    <property key="inab" name="Track abbr">Tpt.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">400</property>
+    <property key="chgp" name="Barline group">400</property>
+    <property key="mxgr" name="Mixer group">Brass</property>
+    <property key="ocod" name="Orchestral order">2010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">b-</property>
+    <property key="sn8v" name="Sounding octave">0</property>
+    <property key="sn8c" name="Sounding c octave">0</property>
+    <property key="shtp" name="Show transposition">inky</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">105</property>
+    <property key="uiid" name="Upgrade IID">2401</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">402</property>
+    <property key="ingr" name="Setup group">Brass</property>
+    <property key="inds" name="Setup denote">Tenor Trombone</property>
+    <property key="innm" name="Track name">Trombone</property>
+    <property key="inab" name="Track abbr">Trb.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">400</property>
+    <property key="chgp" name="Barline group">400</property>
+    <property key="mxgr" name="Mixer group">Brass</property>
+    <property key="ocod" name="Orchestral order">2020</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">112</property>
+    <property key="uiid" name="Upgrade IID">2402</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">403</property>
+    <property key="ingr" name="Setup group">Brass</property>
+    <property key="inds" name="Setup denote">Bass Trombone</property>
+    <property key="innm" name="Track name">Bass Trombone</property>
+    <property key="inab" name="Track abbr">B. Trb.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">400</property>
+    <property key="chgp" name="Barline group">400</property>
+    <property key="mxgr" name="Mixer group">Brass</property>
+    <property key="ocod" name="Orchestral order">2025</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">113</property>
+    <property key="uiid" name="Upgrade IID">2403</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">404</property>
+    <property key="ingr" name="Setup group">Brass</property>
+    <property key="inds" name="Setup denote">Tuba</property>
+    <property key="innm" name="Track name">Tuba</property>
+    <property key="inab" name="Track abbr">Tuba</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">400</property>
+    <property key="chgp" name="Barline group">400</property>
+    <property key="mxgr" name="Mixer group">Brass</property>
+    <property key="ocod" name="Orchestral order">2040</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">116</property>
+    <property key="uiid" name="Upgrade IID">2404</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">405</property>
+    <property key="ingr" name="Setup group">Brass</property>
+    <property key="inds" name="Setup denote">Euphonium</property>
+    <property key="innm" name="Track name">Euphonium</property>
+    <property key="inab" name="Track abbr">Euph.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">400</property>
+    <property key="chgp" name="Barline group">400</property>
+    <property key="mxgr" name="Mixer group">Brass</property>
+    <property key="ocod" name="Orchestral order">2030</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">119</property>
+    <property key="uiid" name="Upgrade IID">2405</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">100</property>
+    <property key="ingr" name="Setup group">Keyboards/Harp</property>
+    <property key="inds" name="Setup denote">Piano</property>
+    <property key="innm" name="Track name">Piano</property>
+    <property key="inab" name="Track abbr">Pn.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Keybd</property>
+    <property key="ocod" name="Orchestral order">4000</property>
+    <property key="pttp" name="Part setup type">grnd</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">150</property>
+    <property key="uiid" name="Upgrade IID">2100</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">101</property>
+    <property key="ingr" name="Setup group">Keyboards/Harp</property>
+    <property key="inds" name="Setup denote">Electric Piano</property>
+    <property key="innm" name="Track name">E. Piano</property>
+    <property key="inab" name="Track abbr">E. Pn.</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="mxgr" name="Mixer group">Keybd</property>
+    <property key="ocod" name="Orchestral order">4000</property>
+    <property key="pttp" name="Part setup type">grnd</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">163</property>
+    <property key="uiid" name="Upgrade IID">2101</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">102</property>
+    <property key="ingr" name="Setup group">Keyboards/Harp</property>
+    <property key="inds" name="Setup denote">Clavi</property>
+    <property key="innm" name="Track name">Clavi</property>
+    <property key="inab" name="Track abbr">Clavi</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="mxgr" name="Mixer group">Keybd</property>
+    <property key="ocod" name="Orchestral order">4000</property>
+    <property key="pttp" name="Part setup type">grnd</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">164</property>
+    <property key="uiid" name="Upgrade IID">2102</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">120</property>
+    <property key="ingr" name="Setup group">Keyboards/Harp</property>
+    <property key="inds" name="Setup denote">Harp</property>
+    <property key="innm" name="Track name">Harp</property>
+    <property key="inab" name="Track abbr">Harp</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Harp</property>
+    <property key="ocod" name="Orchestral order">4040</property>
+    <property key="pttp" name="Part setup type">grnd</property>
+    <property key="glsy" name="Gliss style">harp</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">157</property>
+    <property key="uiid" name="Upgrade IID">2120</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">123</property>
+    <property key="ingr" name="Setup group">Keyboards/Harp</property>
+    <property key="inds" name="Setup denote">Harpsichord</property>
+    <property key="innm" name="Track name">Harpsichord</property>
+    <property key="inab" name="Track abbr">Harpsi.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Keybd</property>
+    <property key="ocod" name="Orchestral order">4000</property>
+    <property key="pttp" name="Part setup type">grnd</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">152</property>
+    <property key="uiid" name="Upgrade IID">2123</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">124</property>
+    <property key="ingr" name="Setup group">Keyboards/Harp</property>
+    <property key="inds" name="Setup denote">Celeste</property>
+    <property key="innm" name="Track name">Celeste</property>
+    <property key="inab" name="Track abbr">Cel.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Keybd</property>
+    <property key="ocod" name="Orchestral order">4010</property>
+    <property key="pttp" name="Part setup type">grnd</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">153</property>
+    <property key="uiid" name="Upgrade IID">2124</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">800</property>
+    <property key="ingr" name="Setup group">Guitars/Basses</property>
+    <property key="inds" name="Setup denote">Electric Guitar</property>
+    <property key="innm" name="Track name">E. Guitar</property>
+    <property key="inab" name="Track abbr">E. Gt.</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="mxgr" name="Mixer group">Rhythm</property>
+    <property key="ocod" name="Orchestral order">4500</property>
+    <property key="pttp" name="Part setup type">sttb</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="tbtn" name="Tab tuning">5200 4900 4700 4400 4100 3800</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="ipnm" name="Import names">guitar,electric guitar,el. guitar</property>
+    <property key="ipgn" name="Import genre">popj</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">173</property>
+    <property key="uiid" name="Upgrade IID">2800</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">801</property>
+    <property key="ingr" name="Setup group">Guitars/Basses</property>
+    <property key="inds" name="Setup denote">Acoustic Guitar</property>
+    <property key="innm" name="Track name">Ac. Guitar</property>
+    <property key="inab" name="Track abbr">Ac. Gt.</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="mxgr" name="Mixer group">Rhythm</property>
+    <property key="ocod" name="Orchestral order">4500</property>
+    <property key="pttp" name="Part setup type">sttb</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="tbtn" name="Tab tuning">5200 4900 4700 4400 4100 3800</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="ipnm" name="Import names">acoustic guitar,ac. guitar</property>
+    <property key="ipgn" name="Import genre">popj</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">451</property>
+    <property key="uiid" name="Upgrade IID">2801</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">801</property>
+    <property key="ingr" name="Setup group">Guitars/Basses</property>
+    <property key="inds" name="Setup denote">Steel String Guitar</property>
+    <property key="innm" name="Track name">St-str. Guitar</property>
+    <property key="inab" name="Track abbr">St-str. Gt.</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="mxgr" name="Mixer group">Rhythm</property>
+    <property key="ocod" name="Orchestral order">4500</property>
+    <property key="pttp" name="Part setup type">sttb</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="tbtn" name="Tab tuning">5200 4900 4700 4400 4100 3800</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="ipnm" name="Import names">steel string guitar</property>
+    <property key="ipgn" name="Import genre">popj</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">171</property>
+    <property key="uiid" name="Upgrade IID">2801</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">802</property>
+    <property key="ingr" name="Setup group">Guitars/Basses</property>
+    <property key="inds" name="Setup denote">12-string Guitar</property>
+    <property key="innm" name="Track name">12-str. Guitar</property>
+    <property key="inab" name="Track abbr">12-str. Gt.</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="mxgr" name="Mixer group">Rhythm</property>
+    <property key="ocod" name="Orchestral order">4500</property>
+    <property key="pttp" name="Part setup type">sttb</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="tbtn" name="Tab tuning">5200 4900 4700 4400 4100 3800</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="ipnm" name="Import names">12-string guitar, 12-string</property>
+    <property key="ipgn" name="Import genre">popj</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">172</property>
+    <property key="uiid" name="Upgrade IID">2802</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">803</property>
+    <property key="ingr" name="Setup group">Guitars/Basses</property>
+    <property key="inds" name="Setup denote">Classical Guitar</property>
+    <property key="innm" name="Track name">Classical Guitar</property>
+    <property key="inab" name="Track abbr">Gt.</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="mxgr" name="Mixer group">Rhythm</property>
+    <property key="ocod" name="Orchestral order">4500</property>
+    <property key="pttp" name="Part setup type">sttb</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="tbtn" name="Tab tuning">5200 4900 4700 4400 4100 3800</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="ipnm" name="Import names">classical guitar, nylon guitar, nylon</property>
+    <property key="ipgn" name="Import genre">popj</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">170</property>
+    <property key="uiid" name="Upgrade IID">2803</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">806</property>
+    <property key="ingr" name="Setup group">Guitars/Basses</property>
+    <property key="inds" name="Setup denote">Banjo</property>
+    <property key="innm" name="Track name">Banjo</property>
+    <property key="inab" name="Track abbr">Banjo</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="mxgr" name="Mixer group">Rhythm</property>
+    <property key="ocod" name="Orchestral order">4500</property>
+    <property key="pttp" name="Part setup type">sttb</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="tbtn" name="Tab tuning">5100 4900 4700 4400 5400</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="ipnm" name="Import names">banjo</property>
+    <property key="ipgn" name="Import genre">popj</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">182</property>
+    <property key="uiid" name="Upgrade IID">2806</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">830</property>
+    <property key="ingr" name="Setup group">Guitars/Basses</property>
+    <property key="inds" name="Setup denote">Electric Bass</property>
+    <property key="innm" name="Track name">E. Bass</property>
+    <property key="inab" name="Track abbr">E. Bass</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="mxgr" name="Mixer group">Rhythm</property>
+    <property key="ocod" name="Orchestral order">4600</property>
+    <property key="pttp" name="Part setup type">sttb</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="tbtn" name="Tab tuning">4000 3700 3400 3100</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="ipnm" name="Import names">electric bass,el. bass</property>
+    <property key="ipgn" name="Import genre">popj</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">181</property>
+    <property key="uiid" name="Upgrade IID">2830</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">831</property>
+    <property key="ingr" name="Setup group">Guitars/Basses</property>
+    <property key="inds" name="Setup denote">Upright Bass</property>
+    <property key="innm" name="Track name">Bass</property>
+    <property key="inab" name="Track abbr">Bass</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="mxgr" name="Mixer group">Rhythm</property>
+    <property key="ocod" name="Orchestral order">4600</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="sndr" name="Sounding direction">down</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="tbtn" name="Tab tuning">4000 3700 3400 3100</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="ipnm" name="Import names">upright bass,string bass</property>
+    <property key="ipgn" name="Import genre">popj</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">26</property>
+    <property key="uiid" name="Upgrade IID">2831</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">505</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Bass Drum</property>
+    <property key="innm" name="Track name">Bass Drum</property>
+    <property key="inab" name="Track abbr">B.D.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3200</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">251</property>
+    <property key="uiid" name="Upgrade IID">2505</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">569</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Bodhrán</property>
+    <property key="innm" name="Track name">Bodhrán</property>
+    <property key="inab" name="Track abbr">Bodhrán</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">454</property>
+    <property key="uiid" name="Upgrade IID">2569</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">528</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Bongos</property>
+    <property key="innm" name="Track name">Bongos</property>
+    <property key="inab" name="Track abbr">Bon.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">221</property>
+    <property key="uiid" name="Upgrade IID">2528</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">547</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Long Drum</property>
+    <property key="innm" name="Track name">Long Drum</property>
+    <property key="inab" name="Track abbr">Ln. Drum</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3101</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">244</property>
+    <property key="uiid" name="Upgrade IID">2547</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">552</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Piccolo Snare</property>
+    <property key="innm" name="Track name">Piccolo Snare</property>
+    <property key="inab" name="Track abbr">Picc. Sn.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3099</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">259</property>
+    <property key="uiid" name="Upgrade IID">2552</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">502</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Snare Drum</property>
+    <property key="innm" name="Track name">Snare Drum</property>
+    <property key="inab" name="Track abbr">Snare</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3100</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">256</property>
+    <property key="uiid" name="Upgrade IID">2502</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">556</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Snare Drum (high)</property>
+    <property key="innm" name="Track name">Snare Drum</property>
+    <property key="inab" name="Track abbr">Snare</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3099</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">281</property>
+    <property key="uiid" name="Upgrade IID">2556</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">551</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Tenor Drum</property>
+    <property key="innm" name="Track name">Tenor Drum</property>
+    <property key="inab" name="Track abbr">T. Drum</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3101</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">252</property>
+    <property key="uiid" name="Upgrade IID">2551</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">561</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Chinese Cymbals (Bo)</property>
+    <property key="innm" name="Track name">Chinese Cymbals</property>
+    <property key="inab" name="Track abbr">Ch. Cymbals</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3300</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">298</property>
+    <property key="uiid" name="Upgrade IID">2561</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">504</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Crash Cymbals (orchestral)</property>
+    <property key="innm" name="Track name">Crash Cymbals</property>
+    <property key="inab" name="Track abbr">Cym.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3300</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="inxm" name="Export name">Crash Cymbals</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">268</property>
+    <property key="uiid" name="Upgrade IID">2504</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">562</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Finger Cymbals</property>
+    <property key="innm" name="Track name">Finger Cymbals</property>
+    <property key="inab" name="Track abbr">Fin. Cymbals</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3300</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">319</property>
+    <property key="uiid" name="Upgrade IID">2562</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">523</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Sizzle Cymbal</property>
+    <property key="innm" name="Track name">Sizzle Cymbal</property>
+    <property key="inab" name="Track abbr">Sizzle Cym.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3300</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">327</property>
+    <property key="uiid" name="Upgrade IID">2523</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">524</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Splash Cymbal</property>
+    <property key="innm" name="Track name">Splash Cymbal</property>
+    <property key="inab" name="Track abbr">Splash Cym.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3300</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">330</property>
+    <property key="uiid" name="Upgrade IID">2524</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">503</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Suspended Cymbal</property>
+    <property key="innm" name="Track name">Suspended Cymbal</property>
+    <property key="inab" name="Track abbr">Sus. Cym.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3300</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">225</property>
+    <property key="uiid" name="Upgrade IID">2503</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">541</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Suspended Cymbal (low)</property>
+    <property key="innm" name="Track name">Suspended Cymbal</property>
+    <property key="inab" name="Track abbr">Sus. Cym.</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3300</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">232</property>
+    <property key="uiid" name="Upgrade IID">2541</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">615</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Almglocken</property>
+    <property key="innm" name="Track name">Almglocken</property>
+    <property key="inab" name="Track abbr">Almg.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">286</property>
+    <property key="uiid" name="Upgrade IID">2615</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">606</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Crotales</property>
+    <property key="innm" name="Track name">Crotales</property>
+    <property key="inab" name="Track abbr">Crot.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">up</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">2</property>
+    <property key="sn8c" name="Sounding c octave">2</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">222</property>
+    <property key="uiid" name="Upgrade IID">2606</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">602</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Glockenspiel/Orchestra Bells</property>
+    <property key="innm" name="Track name">Glockenspiel</property>
+    <property key="inab" name="Track abbr">Glock.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">up</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">2</property>
+    <property key="sn8c" name="Sounding c octave">2</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="inxm" name="Export name">Glockenspiel</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">131</property>
+    <property key="uiid" name="Upgrade IID">2602</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">611</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Handbells</property>
+    <property key="innm" name="Track name">Handbells</property>
+    <property key="inab" name="Track abbr">Handbells</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">224</property>
+    <property key="uiid" name="Upgrade IID">2611</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">604</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Marimba</property>
+    <property key="innm" name="Track name">Marimba</property>
+    <property key="inab" name="Track abbr">Mar.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">grnd</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">133</property>
+    <property key="uiid" name="Upgrade IID">2604</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">613</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Concert Toms</property>
+    <property key="innm" name="Track name">Concert Toms</property>
+    <property key="inab" name="Track abbr">C. Toms</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">320</property>
+    <property key="uiid" name="Upgrade IID">2613</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">608</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Roto Toms</property>
+    <property key="innm" name="Track name">Roto Toms</property>
+    <property key="inab" name="Track abbr">R. Toms</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">257</property>
+    <property key="uiid" name="Upgrade IID">2608</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">614</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Saw</property>
+    <property key="innm" name="Track name">Saw</property>
+    <property key="inab" name="Track abbr">Saw</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">282</property>
+    <property key="uiid" name="Upgrade IID">2614</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">616</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Slide Whistle</property>
+    <property key="innm" name="Track name">Slide Whistle</property>
+    <property key="inab" name="Track abbr">Sl. Whistle</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">276</property>
+    <property key="uiid" name="Upgrade IID">2616</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">607</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Temple Blocks</property>
+    <property key="innm" name="Track name">Temple Blocks</property>
+    <property key="inab" name="Track abbr">Tem. Blk.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">chrm</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">226</property>
+    <property key="uiid" name="Upgrade IID">2607</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">600</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Timpani</property>
+    <property key="innm" name="Track name">Timpani</property>
+    <property key="inab" name="Track abbr">Timp.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3000</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">220</property>
+    <property key="uiid" name="Upgrade IID">2600</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">605</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Tubular Bells</property>
+    <property key="innm" name="Track name">Tubular Bells</property>
+    <property key="inab" name="Track abbr">Tub. Bells</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">134</property>
+    <property key="uiid" name="Upgrade IID">2605</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">610</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Tuned Gongs</property>
+    <property key="innm" name="Track name">Tuned Gongs</property>
+    <property key="inab" name="Track abbr">T. Gongs</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">bs</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">200</property>
+    <property key="uiid" name="Upgrade IID">2610</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">603</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Vibraphone</property>
+    <property key="innm" name="Track name">Vibraphone</property>
+    <property key="inab" name="Track abbr">Vib.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">132</property>
+    <property key="uiid" name="Upgrade IID">2603</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">609</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Wine Glasses</property>
+    <property key="innm" name="Track name">Wine Glasses</property>
+    <property key="inab" name="Track abbr">W. Glasses</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">249</property>
+    <property key="uiid" name="Upgrade IID">2609</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">601</property>
+    <property key="ingr" name="Setup group">Pitched Percussion</property>
+    <property key="inds" name="Setup denote">Xylophone</property>
+    <property key="innm" name="Track name">Xylophone</property>
+    <property key="inab" name="Track abbr">Xylo.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3010</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">tr</property>
+    <property key="sndr" name="Sounding direction">up</property>
+    <property key="sntr" name="Sounding pitch">c</property>
+    <property key="sn8v" name="Sounding octave">1</property>
+    <property key="sn8c" name="Sounding c octave">1</property>
+    <property key="glsy" name="Gliss style">pian</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">130</property>
+    <property key="uiid" name="Upgrade IID">2601</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">540</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Agogô</property>
+    <property key="innm" name="Track name">Agogô</property>
+    <property key="inab" name="Track abbr">Agogô</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">452</property>
+    <property key="uiid" name="Upgrade IID">2540</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">558</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Anvil</property>
+    <property key="innm" name="Track name">Anvil</property>
+    <property key="inab" name="Track abbr">Anvil</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">285</property>
+    <property key="uiid" name="Upgrade IID">2558</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">566</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Bell Tree</property>
+    <property key="innm" name="Track name">Bell Tree</property>
+    <property key="inab" name="Track abbr">Bell Tree</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">326</property>
+    <property key="uiid" name="Upgrade IID">2566</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">526</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Brake Drum</property>
+    <property key="innm" name="Track name">Brake Drum</property>
+    <property key="inab" name="Track abbr">Brk. D.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">137</property>
+    <property key="uiid" name="Upgrade IID">2526</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">508</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Cabasa</property>
+    <property key="innm" name="Track name">Cabasa</property>
+    <property key="inab" name="Track abbr">Cabasa</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">267</property>
+    <property key="uiid" name="Upgrade IID">2508</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">515</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Castanets</property>
+    <property key="innm" name="Track name">Castanets</property>
+    <property key="inab" name="Track abbr">Castanets</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">274</property>
+    <property key="uiid" name="Upgrade IID">2515</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">520</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Caxixi</property>
+    <property key="innm" name="Track name">Caxixi</property>
+    <property key="inab" name="Track abbr">Caxixi</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">328</property>
+    <property key="uiid" name="Upgrade IID">2520</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">506</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Claves</property>
+    <property key="innm" name="Track name">Claves</property>
+    <property key="inab" name="Track abbr">Claves</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">262</property>
+    <property key="uiid" name="Upgrade IID">2506</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">517</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Cowbell</property>
+    <property key="innm" name="Track name">Cowbell</property>
+    <property key="inab" name="Track abbr">Cowbell</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">280</property>
+    <property key="uiid" name="Upgrade IID">2517</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">532</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Cuíca</property>
+    <property key="innm" name="Track name">Cuíca</property>
+    <property key="inab" name="Track abbr">Cuíca</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">258</property>
+    <property key="uiid" name="Upgrade IID">2532</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">525</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Drum Sticks</property>
+    <property key="innm" name="Track name">Drum Sticks</property>
+    <property key="inab" name="Track abbr">Dr. Sticks</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">373</property>
+    <property key="uiid" name="Upgrade IID">2525</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">612</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Flexatone</property>
+    <property key="innm" name="Track name">Flexatone</property>
+    <property key="inab" name="Track abbr">Flexatone</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">273</property>
+    <property key="uiid" name="Upgrade IID">2612</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">521</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Ganza</property>
+    <property key="innm" name="Track name">Ganza</property>
+    <property key="inab" name="Track abbr">Ganza</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">329</property>
+    <property key="uiid" name="Upgrade IID">2521</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">509</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Gong</property>
+    <property key="innm" name="Track name">Gong</property>
+    <property key="inab" name="Track abbr">Gong</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">270</property>
+    <property key="uiid" name="Upgrade IID">2509</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">507</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Guiro</property>
+    <property key="innm" name="Track name">Guiro</property>
+    <property key="inab" name="Track abbr">Guiro</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">263</property>
+    <property key="uiid" name="Upgrade IID">2507</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">539</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Log Drum</property>
+    <property key="innm" name="Track name">Log Drum</property>
+    <property key="inab" name="Track abbr">Log Drum</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">al</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">324</property>
+    <property key="uiid" name="Upgrade IID">2539</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">513</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Maracas</property>
+    <property key="innm" name="Track name">Maracas</property>
+    <property key="inab" name="Track abbr">Mrc.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">266</property>
+    <property key="uiid" name="Upgrade IID">2513</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">548</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Ocean Drum</property>
+    <property key="innm" name="Track name">Ocean Drum</property>
+    <property key="inab" name="Track abbr">Oc. Drum</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">245</property>
+    <property key="uiid" name="Upgrade IID">2548</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">555</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Rainstick</property>
+    <property key="innm" name="Track name">Rainstick</property>
+    <property key="inab" name="Track abbr">Rainstick</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">279</property>
+    <property key="uiid" name="Upgrade IID">2555</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">519</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Ratchet</property>
+    <property key="innm" name="Track name">Ratchet</property>
+    <property key="inab" name="Track abbr">Ratchet</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">287</property>
+    <property key="uiid" name="Upgrade IID">2519</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">559</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Sand Blocks</property>
+    <property key="innm" name="Track name">Sand Blocks</property>
+    <property key="inab" name="Track abbr">S. Blocks</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">288</property>
+    <property key="uiid" name="Upgrade IID">2559</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">518</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Sleigh Bells</property>
+    <property key="innm" name="Track name">Sleigh Bells</property>
+    <property key="inab" name="Track abbr">Sl. Bells</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">283</property>
+    <property key="uiid" name="Upgrade IID">2518</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">510</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Tam-tam</property>
+    <property key="innm" name="Track name">Tam-tam</property>
+    <property key="inab" name="Track abbr">Tam-tam</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">271</property>
+    <property key="uiid" name="Upgrade IID">2510</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">501</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Tambourine</property>
+    <property key="innm" name="Track name">Tambourine</property>
+    <property key="inab" name="Track abbr">Tamb.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">265</property>
+    <property key="uiid" name="Upgrade IID">2501</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">500</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Triangle</property>
+    <property key="innm" name="Track name">Triangle</property>
+    <property key="inab" name="Track abbr">Tri.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">269</property>
+    <property key="uiid" name="Upgrade IID">2500</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">542</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Vibrastick</property>
+    <property key="innm" name="Track name">Vibrastick</property>
+    <property key="inab" name="Track abbr">Vibrastick</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">238</property>
+    <property key="uiid" name="Upgrade IID">2542</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">565</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Vibraslap</property>
+    <property key="innm" name="Track name">Vibraslap</property>
+    <property key="inab" name="Track abbr">Vibraslap</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">325</property>
+    <property key="uiid" name="Upgrade IID">2565</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">550</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Water Gong</property>
+    <property key="innm" name="Track name">Water Gong</property>
+    <property key="inab" name="Track abbr">W. Gong</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">slid</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">248</property>
+    <property key="uiid" name="Upgrade IID">2550</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">512</property>
+    <property key="ingr" name="Setup group">Other Percussion</property>
+    <property key="inds" name="Setup denote">Wood Block</property>
+    <property key="innm" name="Track name">Wood Block</property>
+    <property key="inab" name="Track abbr">Wbl.</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">264</property>
+    <property key="uiid" name="Upgrade IID">2512</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">660</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Drum Set Kick Drum</property>
+    <property key="innm" name="Track name">Kick Drum</property>
+    <property key="inab" name="Track abbr">Kick</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3510</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">none</property>
+    <property key="fxpt" name="Fixed pitches">5300</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">314</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">661</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Drum Set Snare</property>
+    <property key="innm" name="Track name">Snare</property>
+    <property key="inab" name="Track abbr">Snare</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3509</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">none</property>
+    <property key="fxpt" name="Fixed pitches">5700</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">331</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">662</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Drum Set 10&quot; Tom</property>
+    <property key="innm" name="Track name">10&quot; Tom</property>
+    <property key="inab" name="Track abbr">Tom (10)</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3508</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">none</property>
+    <property key="fxpt" name="Fixed pitches">5900</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">332</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">663</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Drum Set 12&quot; Tom</property>
+    <property key="innm" name="Track name">12&quot; Tom</property>
+    <property key="inab" name="Track abbr">Tom (12)</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3507</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">none</property>
+    <property key="fxpt" name="Fixed pitches">5800</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">254</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">664</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Drum Set 14&quot; Tom</property>
+    <property key="innm" name="Track name">14&quot; Tom</property>
+    <property key="inab" name="Track abbr">Tom (14)</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3506</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">none</property>
+    <property key="fxpt" name="Fixed pitches">5500</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">333</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">665</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Drum Set Floor Tom</property>
+    <property key="innm" name="Track name">Floor Tom</property>
+    <property key="inab" name="Track abbr">Tom (Fl.)</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3505</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">none</property>
+    <property key="fxpt" name="Fixed pitches">5400</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">315</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">666</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Drum Set Hi-Hat</property>
+    <property key="innm" name="Track name">Hi-Hat</property>
+    <property key="inab" name="Track abbr">Hi-Hat</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3504</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">none</property>
+    <property key="fxpt" name="Fixed pitches">6100</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">261</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">667</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Drum Set Ride Cymbal</property>
+    <property key="innm" name="Track name">Ride Cymbal</property>
+    <property key="inab" name="Track abbr">Ride</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3503</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">none</property>
+    <property key="fxpt" name="Fixed pitches">6000</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">316</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">669</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Drum Set 18&quot; Crash</property>
+    <property key="innm" name="Track name">18&quot; Crash</property>
+    <property key="inab" name="Track abbr">Crash (18)</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3502</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">none</property>
+    <property key="fxpt" name="Fixed pitches">6200</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">334</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">668</property>
+    <property key="ingr" name="Setup group">Drums / Cymbals</property>
+    <property key="inds" name="Setup denote">Drum Set 16&quot; Crash</property>
+    <property key="innm" name="Track name">16&quot; Crash</property>
+    <property key="inab" name="Track abbr">Crash (16)</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Perc.</property>
+    <property key="ocod" name="Orchestral order">3501</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="glsy" name="Gliss style">none</property>
+    <property key="fxpt" name="Fixed pitches">6300</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">317</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">536</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Car Horn</property>
+    <property key="innm" name="Track name">Car Horn</property>
+    <property key="inab" name="Track abbr">Car Horn</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">318</property>
+    <property key="uiid" name="Upgrade IID">2536</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">544</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Champagne Bottle</property>
+    <property key="innm" name="Track name">Champagne Bottle</property>
+    <property key="inab" name="Track abbr">Champagne</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">240</property>
+    <property key="uiid" name="Upgrade IID">2544</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">557</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Church Bell</property>
+    <property key="innm" name="Track name">Church Bell</property>
+    <property key="inab" name="Track abbr">Ch. Bells</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">284</property>
+    <property key="uiid" name="Upgrade IID">2557</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">553</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Handclap</property>
+    <property key="innm" name="Track name">Handclap</property>
+    <property key="inab" name="Track abbr">Clap</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">275</property>
+    <property key="uiid" name="Upgrade IID">2553</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">516</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Cuckoo</property>
+    <property key="innm" name="Track name">Cuckoo</property>
+    <property key="inab" name="Track abbr">Cuckoo</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">278</property>
+    <property key="uiid" name="Upgrade IID">2516</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">545</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Duck Call</property>
+    <property key="innm" name="Track name">Duck Call</property>
+    <property key="inab" name="Track abbr">Duck</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">241</property>
+    <property key="uiid" name="Upgrade IID">2545</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">530</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Flower pots</property>
+    <property key="innm" name="Track name">Flower pots</property>
+    <property key="inab" name="Track abbr">Fl. pots</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">stnd</property>
+    <property key="cfcf" name="Clef type">al</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">242</property>
+    <property key="uiid" name="Upgrade IID">2530</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">570</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Gunshot</property>
+    <property key="innm" name="Track name">Gunshot</property>
+    <property key="inab" name="Track abbr">Gun</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">435</property>
+    <property key="uiid" name="Upgrade IID">2570</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">564</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Hammer</property>
+    <property key="innm" name="Track name">Hammer</property>
+    <property key="inab" name="Track abbr">Hammer</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">323</property>
+    <property key="uiid" name="Upgrade IID">2564</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">546</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Lead Pipe</property>
+    <property key="innm" name="Track name">Lead Pipe</property>
+    <property key="inab" name="Track abbr">Ld. Pipe</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">243</property>
+    <property key="uiid" name="Upgrade IID">2546</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">567</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Nightingale Whistle</property>
+    <property key="innm" name="Track name">Nightingale Whistle</property>
+    <property key="inab" name="Track abbr">N. Whistle</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">377</property>
+    <property key="uiid" name="Upgrade IID">2567</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">538</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Referee Whistle</property>
+    <property key="innm" name="Track name">Referee Whistle</property>
+    <property key="inab" name="Track abbr">R. Whistle</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">322</property>
+    <property key="uiid" name="Upgrade IID">2538</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">568</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Lion&apos;s Roar</property>
+    <property key="innm" name="Track name">Lion&apos;s Roar</property>
+    <property key="inab" name="Track abbr">Roar</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">453</property>
+    <property key="uiid" name="Upgrade IID">2568</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">563</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Siren</property>
+    <property key="innm" name="Track name">Siren</property>
+    <property key="inab" name="Track abbr">Siren</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">321</property>
+    <property key="uiid" name="Upgrade IID">2563</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">543</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Siren Whistle</property>
+    <property key="innm" name="Track name">Siren Whistle</property>
+    <property key="inab" name="Track abbr">Siren</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">239</property>
+    <property key="uiid" name="Upgrade IID">2543</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">560</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Thunder Sheet</property>
+    <property key="innm" name="Track name">Thunder Sheet</property>
+    <property key="inab" name="Track abbr">Thunder</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">289</property>
+    <property key="uiid" name="Upgrade IID">2560</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">549</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Train Whistle</property>
+    <property key="innm" name="Track name">Train Whistle</property>
+    <property key="inab" name="Track abbr">Train</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">246</property>
+    <property key="uiid" name="Upgrade IID">2549</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">554</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Wind Machine</property>
+    <property key="innm" name="Track name">Wind Machine</property>
+    <property key="inab" name="Track abbr">Wind</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">277</property>
+    <property key="uiid" name="Upgrade IID">2554</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">514</property>
+    <property key="ingr" name="Setup group">Sound Effects</property>
+    <property key="inds" name="Setup denote">Whip</property>
+    <property key="innm" name="Track name">Whip</property>
+    <property key="inab" name="Track abbr">Whip</property>
+    <property key="insn" name="Sounds enabled">True</property>
+    <property key="bkgp" name="Bracket group">500</property>
+    <property key="chgp" name="Barline group">500</property>
+    <property key="mxgr" name="Mixer group">Sound FX</property>
+    <property key="ocod" name="Orchestral order">3400</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="aukt" name="Auth kit">xref</property>
+    <property key="ciid" name="Compat IID">272</property>
+    <property key="uiid" name="Upgrade IID">2514</property>
+  </packet>
+  <packet type="LSIN" name="List instrument">
+    <property key="inid" name="Instrument ID">97</property>
+    <property key="ingr" name="Setup group">Other</property>
+    <property key="inds" name="Setup denote">NTempo</property>
+    <property key="innm" name="Track name">NTempo</property>
+    <property key="inab" name="Track abbr">NT</property>
+    <property key="insn" name="Sounds enabled">False</property>
+    <property key="ocod" name="Orchestral order">800</property>
+    <property key="pttp" name="Part setup type">perc</property>
+    <property key="cfcf" name="Clef type">pc</property>
+    <property key="ciid" name="Compat IID">447</property>
+    <property key="uiid" name="Upgrade IID">97</property>
+  </packet>
+</instruments>
